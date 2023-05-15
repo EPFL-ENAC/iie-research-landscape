@@ -39,7 +39,14 @@ with open("iie_labs.csv", "r") as f:
 
     for row in reader:
         lab_name = row[0].lower()
-        data[lab_name] = {"size": row[6]}
+        data[lab_name] = {
+            "size": 0,
+        }
+
+        # Get lab size (if defined)
+        if len(row) >= 7:
+            lab_size = row[6]
+            data[lab_name]["size"] = lab_size
 
         # Add empty keywords dict
         for source in sources:

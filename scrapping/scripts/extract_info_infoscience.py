@@ -47,10 +47,10 @@ for xml_file in xml_files:
         keywords = [keyword.text for keyword in keywords]
         keywords = [keyword.lower() for keyword in keywords]
 
-        print(f"{i+1}/{len(records)}")
-        print("Labs:     ", ", ".join(lab_names))
-        print("Keywords: ", ", ".join(keywords))
-        print()
+        # print(f"{i+1}/{len(records)}")
+        # print("Labs:     ", ", ".join(lab_names))
+        # print("Keywords: ", ", ".join(keywords))
+        # print()
 
         for lab_name in lab_names:
             if lab_name not in data:
