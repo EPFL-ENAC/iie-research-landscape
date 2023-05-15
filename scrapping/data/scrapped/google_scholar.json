@@ -1,0 +1,112 @@
+{
+    "ceat": {
+        "urbanisme": "1",
+        "urbanisation": "1",
+        "villes africaines": "1",
+        "espaces publics": "1"
+    },
+    "cryos": {
+        "cryosphere": "1",
+        "atmosphere": "1"
+    },
+    "disal": {
+        "robotics": "1",
+        "mechatronics": "1",
+        "intelligent vehicles": "1",
+        "swarm intelligence": "1",
+        "sensor networks": "1"
+    },
+    "eceo": {
+        "machine learning": "1",
+        "remote sensing": "1",
+        "spatial analysis": "1"
+    },
+    "echo": {
+        "hydrology": "1",
+        "ecohydrology": "1",
+        "river networks as ecological corridors": "1",
+        "spatially explicit epidemiology of waterbone disease": "1"
+    },
+    "ecol": {
+        "environmental modelling": "1",
+        "hyporheic zone": "1",
+        "natural porous media": "1",
+        "limnology": "1",
+        "groundwater": "1"
+    },
+    "eerl": {
+        "extreme environments": "1",
+        "aerosol": "1",
+        "air pollution": "1",
+        "climate": "1"
+    },
+    "gr-cel": {
+        "environmental and analytical chemistry biogeochemistry": "1"
+    },
+    "gr-lud": {
+        "waste": "1",
+        "waste to energy": "1",
+        "nutrient recovery": "1",
+        "weee": "1",
+        "critical materials": "1"
+    },
+    "herus": {
+        "social-ecological systems": "1",
+        "sustainability": "1",
+        "transitions": "1",
+        "urban systems": "1"
+    },
+    "iie-ge": {
+        "environmental modelling": "1",
+        "hyporheic zone": "1",
+        "natural porous media": "1",
+        "limnology": "1",
+        "groundwater": "1"
+    },
+    "lapi": {
+        "aerosols": "1",
+        "clouds": "1",
+        "climate": "1",
+        "air quality": "1"
+    },
+    "lbe": {
+        "environmental microbiology": "1",
+        "microbial ecology": "1"
+    },
+    "lce": {
+        "environmental chemistry": "1",
+        "environmental virology": "1",
+        "disinfection": "1"
+    },
+    "lgb": {
+        "biogeochemistry": "1"
+    },
+    "mace": {
+        "environmental microbiology": "1",
+        "cryobiology": "1"
+    },
+    "microbe": {
+        "environmental microbiology": "1",
+        "environmental engineering": "1"
+    },
+    "perl": {
+        "ecophysiology": "1",
+        "ecology": "1"
+    },
+    "sense": {
+        "ice core science": "1",
+        "paleoclimatology": "1",
+        "biogeochemical cycles": "1",
+        "greenhouse gases": "1"
+    },
+    "soil": {
+        "soil chemistry": "1",
+        "environmental biogeochemistry": "1"
+    },
+    "tox": {
+        "cell biology": "1",
+        "ecotoxicology": "1",
+        "mechanistic toxicology": "1",
+        "systems ecotoxicology": "1"
+    }
+}
