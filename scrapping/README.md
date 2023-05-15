@@ -29,3 +29,12 @@ From `scripts`, run
 python3 extract_info_infoscience.py
 ```
 to export relevant data to `data/extracted/infoscience.json`.
+
+
+# Merge into single file
+
+From `scripts`, run
+```
+python3 merge.py
+```
+This will generate `data/all_sources.json`.
