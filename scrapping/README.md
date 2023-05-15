@@ -15,7 +15,10 @@ Unit size can be replaced by FTE in `data/iie_labs.csv`. This info is obtained f
 
 ## EPFL Graph
 
-From the database. Also contains data about labs that no longer exist.
+From the database. Connect to `epfl_graph` database using descriptions and credentials from the notion card. Download the tables in CSV using your favorite DBmanager.
+
+
+Also contains data about labs that no longer exist.
 
 
 ## Infoscience
@@ -35,6 +38,8 @@ Done by hand.
 # Extracting relevant data
 
 ## EPFL Graph
+
+Rur the FME workspace to process the CSV files. 
 
 From `scripts`, run
 ```
