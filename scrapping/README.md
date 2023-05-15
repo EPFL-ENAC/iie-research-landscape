@@ -4,7 +4,7 @@
 
 For lab names, prof name, number of accreds (includes invited and people outside EPFL).
 Ask for access to enacvm-dev. Run `scripts/scrap_cadidb.sql`.
-Save table to `scripts/iie_labs.csv`.
+Save table to `data/iie_labs.csv`.
 Missing APHYS, APRL, ECOS (must add by hand). ECOTOX and EPFL-PSI mentioned in infoscience but missing in cadidb.
 
 

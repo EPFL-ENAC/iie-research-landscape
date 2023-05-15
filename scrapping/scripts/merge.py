@@ -33,7 +33,7 @@ data = {}
 
 # Load list of labs for filtering
 # get lab name from first column, lab size from 6th column
-with open("iie_labs.csv", "r") as f:
+with open("../data/iie_labs.csv", "r") as f:
     reader = csv.reader(f)
     next(reader, None)  # skip header
 
