@@ -19,7 +19,7 @@ for lab_data in input_data:
 
     # Extract keywords
     for concept_data in lab_data["concept"]:
-        keyword = concept_data["PageTitle"].lower()
+        keyword = concept_data["PageTitleDisplay"].lower()
         score = round(float(concept_data["edge_Score"]))
         data[lab_name][keyword] = score
 
