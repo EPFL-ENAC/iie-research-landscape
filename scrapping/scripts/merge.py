@@ -16,7 +16,7 @@ output_filename = "all_sources.json"
 # Saved data
 # {
 #     "lab_name": {
-#         "size": int,
+#         "size": float,
 #         "keywords_infoscience": {
 #             "keyword": int,
 #             ...

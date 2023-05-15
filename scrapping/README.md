@@ -3,14 +3,19 @@
 ## Cadidb
 
 For lab names, prof name, number of accreds (includes invited and people outside EPFL).
-Ask for access to enacvm-dev. Run `scripts/scrap_cadidb.sql`.
+Ask for access to enacvm-dev.
+Run `scripts/scrap_cadidb.sql`. This gets the most up do date info.
 Save table to `data/iie_labs.csv`.
 Missing APHYS, APRL, ECOS (must add by hand). ECOTOX and EPFL-PSI mentioned in infoscience but missing in cadidb.
+
+### FTE instead of unit size
+
+Unit size can be replaced by FTE in `data/iie_labs.csv`. This info is obtained from HR. Current data from 2023.01.
 
 
 ## EPFL Graph
 
-From the database.
+From the database. Also contains data about labs that no longer exist.
 
 
 ## Infoscience

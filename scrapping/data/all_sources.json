@@ -588,7 +588,7 @@
         "keywords_google_scholar": {}
     },
     "ceat": {
-        "size": "10",
+        "size": "6.8",
         "keywords_epfl_graph": {
             "sustainable transport": 1,
             "international union for conservation of nature": 1,
@@ -938,13 +938,13 @@
         }
     },
     "change": {
-        "size": "7",
+        "size": "1.2",
         "keywords_epfl_graph": {},
         "keywords_infoscience": {},
         "keywords_google_scholar": {}
     },
     "cryos": {
-        "size": "43",
+        "size": "12.1",
         "keywords_epfl_graph": {
             "electroweak interaction": 7,
             "j/psi meson": 3,
@@ -2253,7 +2253,7 @@
         }
     },
     "disal": {
-        "size": "26",
+        "size": "7.8",
         "keywords_epfl_graph": {
             "game controller": 12,
             "swarm robotics": 34,
@@ -2789,7 +2789,7 @@
         }
     },
     "eceo": {
-        "size": "23",
+        "size": "7.8",
         "keywords_epfl_graph": {
             "change detection": 1,
             "satellite imagery": 4,
@@ -2997,7 +2997,7 @@
         }
     },
     "echo": {
-        "size": "11",
+        "size": "4.5",
         "keywords_epfl_graph": {
             "wetland": 6,
             "multi-objective optimization": 5,
@@ -4513,7 +4513,7 @@
         }
     },
     "ecol": {
-        "size": "17",
+        "size": "9.3",
         "keywords_epfl_graph": {
             "empirical formula": 3,
             "volatile organic compound": 1,
@@ -6532,7 +6532,7 @@
         "keywords_google_scholar": {}
     },
     "eerl": {
-        "size": "16",
+        "size": "8.1",
         "keywords_epfl_graph": {
             "volatile organic compound": 7,
             "emission": 2,
@@ -6844,7 +6844,7 @@
         }
     },
     "eml": {
-        "size": "24",
+        "size": "14.95",
         "keywords_epfl_graph": {
             "wetland": 3,
             "cell culture": 5,
@@ -7372,7 +7372,7 @@
         "keywords_google_scholar": {}
     },
     "gr-cel": {
-        "size": "19",
+        "size": "9.6",
         "keywords_epfl_graph": {
             "volatile organic compound": 3,
             "wetland": 4,
@@ -8175,7 +8175,7 @@
         }
     },
     "gr-lud": {
-        "size": "20",
+        "size": "2.7",
         "keywords_epfl_graph": {
             "high-temperature superconductivity": 1,
             "volatile organic compound": 1,
@@ -8491,7 +8491,7 @@
         }
     },
     "herus": {
-        "size": "21",
+        "size": "12.2",
         "keywords_epfl_graph": {
             "empiricism": 13,
             "resource": 4,
@@ -9386,7 +9386,7 @@
         }
     },
     "iie-ge": {
-        "size": "19",
+        "size": "0.7",
         "keywords_epfl_graph": {
             "ethanol": 1,
             "advanced composition explorer": 1,
@@ -10324,7 +10324,7 @@
         }
     },
     "lapi": {
-        "size": "26",
+        "size": "10.4",
         "keywords_epfl_graph": {
             "volatile organic compound": 14,
             "emission": 4,
@@ -12772,7 +12772,7 @@
         }
     },
     "lasig": {
-        "size": "2",
+        "size": "7.65",
         "keywords_epfl_graph": {
             "volatile organic compound": 3,
             "international union for conservation of nature": 3,
@@ -14079,7 +14079,7 @@
         "keywords_google_scholar": {}
     },
     "lbe": {
-        "size": "17",
+        "size": "10.95",
         "keywords_epfl_graph": {
             "ethanol": 1,
             "volatile organic compound": 17,
@@ -15093,7 +15093,7 @@
         }
     },
     "lce": {
-        "size": "15",
+        "size": "9.1",
         "keywords_epfl_graph": {
             "volatile organic compound": 2,
             "reclaimed water": 8,
@@ -15529,7 +15529,7 @@
         }
     },
     "lgb": {
-        "size": "30",
+        "size": "14.05",
         "keywords_epfl_graph": {
             "advanced composition explorer": 1,
             "electroweak interaction": 6,
@@ -17057,7 +17057,7 @@
         }
     },
     "lte": {
-        "size": "18",
+        "size": "9.1",
         "keywords_epfl_graph": {
             "spillway": 1,
             "cancer": 3,
@@ -17753,7 +17753,7 @@
         "keywords_google_scholar": {}
     },
     "ltqe": {
-        "size": "14",
+        "size": "3.7",
         "keywords_epfl_graph": {
             "volatile organic compound": 4,
             "functional group": 1,
@@ -18812,7 +18812,7 @@
         "keywords_google_scholar": {}
     },
     "mace": {
-        "size": "5",
+        "size": "2.2",
         "keywords_epfl_graph": {},
         "keywords_infoscience": {},
         "keywords_google_scholar": {
@@ -18821,7 +18821,7 @@
         }
     },
     "microbe": {
-        "size": "3",
+        "size": "1",
         "keywords_epfl_graph": {},
         "keywords_infoscience": {},
         "keywords_google_scholar": {
@@ -18830,7 +18830,7 @@
         }
     },
     "perl": {
-        "size": "27",
+        "size": "9.2",
         "keywords_epfl_graph": {
             "wetland": 4,
             "intimate relationship": 2,
@@ -19396,7 +19396,7 @@
         }
     },
     "river": {
-        "size": "24",
+        "size": "11.3",
         "keywords_epfl_graph": {
             "microbial ecology": 1,
             "community (ecology)": 3,
@@ -19663,7 +19663,7 @@
         "keywords_google_scholar": {}
     },
     "sense": {
-        "size": "4",
+        "size": "1.2",
         "keywords_epfl_graph": {},
         "keywords_infoscience": {
             "meromictic lake": 1,
@@ -20490,7 +20490,7 @@
         }
     },
     "slab": {
-        "size": "4",
+        "size": "1",
         "keywords_epfl_graph": {
             "friction": 6,
             "field experiment": 2,
@@ -20709,7 +20709,7 @@
         "keywords_google_scholar": {}
     },
     "soil": {
-        "size": "8",
+        "size": "1.3",
         "keywords_epfl_graph": {},
         "keywords_infoscience": {
             "pb": 1,
@@ -20731,7 +20731,7 @@
         }
     },
     "topo": {
-        "size": "5",
+        "size": "8.45",
         "keywords_epfl_graph": {
             "estimator": 2,
             "gps signals": 4,
@@ -22059,7 +22059,7 @@
         "keywords_google_scholar": {}
     },
     "wire": {
-        "size": "16",
+        "size": "9.9",
         "keywords_epfl_graph": {
             "constitutive equation": 1,
             "renewable energy commercialization": 3,
@@ -22490,7 +22490,7 @@
         "keywords_google_scholar": {}
     },
     "wr-lab": {
-        "size": "4",
+        "size": "2.2",
         "keywords_epfl_graph": {},
         "keywords_infoscience": {
             "hydrological trends": 1,
