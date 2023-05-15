@@ -1,3 +1,4 @@
+import csv
 import json
 import os
 import xml.etree.ElementTree as ET
@@ -7,8 +8,11 @@ import xml.etree.ElementTree as ET
 data = {}
 
 # load list of labs for filtering
-with open("iie_labs.txt", "r") as f:
-    iie_labs = f.read().splitlines()
+# only keep first column (lab names)
+with open("iie_labs.csv", "r") as f:
+    reader = csv.reader(f)
+    next(reader, None)  # skip header
+    iie_labs = [row[0] for row in reader]
 iie_labs = [lab.lower() for lab in iie_labs]
 
 # list xml files
