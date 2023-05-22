@@ -23,6 +23,8 @@ Also contains data about labs that no longer exist.
 
 Run the FME workspace to process the CSV files (see `scripts/scrap_epfl_graph_research.fmw`). Data is extracted from the `Edges_N_Unit_N_Concept_T_Research` database.
 
+Additional data on _keyword -- parent concept_ and _concept -- parent concept_ is extracted with `scripts/scrap_epfl_graph_keywords_categories.sql`.
+
 
 ### Teaching data
 
