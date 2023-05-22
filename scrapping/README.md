@@ -23,8 +23,6 @@ Also contains data about labs that no longer exist.
 
 Run the FME workspace to process the CSV files (see `scripts/scrap_epfl_graph_research.fmw`). Data is extracted from the `Edges_N_Unit_N_Concept_T_Research` database.
 
-Additional data on _keyword -- parent concept_ and _concept -- parent concept_ is extracted with `scripts/scrap_epfl_graph_keywords_categories.sql`.
-
 
 ### Teaching data
 
@@ -73,3 +71,12 @@ From `scripts`, run
 python3 merge.py
 ```
 This will generate `data/all_sources.json`.
+
+
+# Keyword groups
+
+## EPFL Graph
+
+Use `scripts/scrap_epfl_graph_keywords_categories.sql` to extract _keyword -- parent category_ and _category -- parent category_ pairs, saved into `data/scrapped/epfl_graph/` in `keyword_category.csv` and `category_category.csv`.
+
+Then, run `scripts/generate_keyword_groups_epfl_graph.py`.
