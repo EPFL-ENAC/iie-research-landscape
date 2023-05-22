@@ -1,7 +1,7 @@
 import json
 
 
-input_file_path = "../data/scrapped/epfl_graph.json"
+input_file_path = "../data/scrapped/epfl_graph/lab_keyword.json"
 output_file_path = "../data/extracted/epfl_graph.json"
 
 # Saved data
