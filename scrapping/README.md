@@ -54,7 +54,7 @@ From `scripts`, run
 ```
 python3 extract_info_epfl_graph.py
 ```
-to export relevant data to `data/extracted/epfl_graph.json`.
+to export relevant data to `data/extracted/epfl_graph.json` and `data/extracted/epfl_graph_teaching.json`.
 
 
 ## Infoscience
