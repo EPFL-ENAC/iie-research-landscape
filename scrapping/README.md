@@ -17,8 +17,17 @@ Unit size can be replaced by FTE in `data/iie_labs.csv`. This info is obtained f
 
 From the database. Connect to `epfl_graph` database using descriptions and credentials from the notion card. Download the tables in CSV using your favorite DBmanager.
 
-
 Also contains data about labs that no longer exist.
+
+### Research data
+
+Run the FME workspace to process the CSV files (see `scripts/scrap_epfl_graph_research.fmw`). Data is extracted from the `Edges_N_Unit_N_Concept_T_Research` database.
+
+
+### Teaching data
+
+Use `scripts/scrap_epfl_graph_teaching.sql`. Data is extracted from the `Edges_N_Person_N_Concept_T_TeachingAuto` database. It is filtered by profs' SCIPERS for current labs (see `data/iie_labs.csv` for the list of profs).
+
 
 
 ## Infoscience
@@ -39,13 +48,11 @@ Done by hand.
 
 ## EPFL Graph
 
-Rur the FME workspace to process the CSV files. 
-
 From `scripts`, run
 ```
 python3 extract_info_epfl_graph.py
 ```
-to export relevant data to `data/extracted/epfl_graph.json`.
+to export relevant data to `data/extracted/epfl_graph.json` and `data/extracted/epfl_graph_teaching.json`.
 
 
 ## Infoscience
@@ -64,3 +71,12 @@ From `scripts`, run
 python3 merge.py
 ```
 This will generate `data/all_sources.json`.
+
+
+# Keyword groups
+
+## EPFL Graph
+
+Use `scripts/scrap_epfl_graph_keywords_categories.sql` to extract _keyword -- parent category_ and _category -- parent category_ pairs, saved into `data/scrapped/epfl_graph/` in `keyword_category.csv` and `category_category.csv`.
+
+Then, run `scripts/generate_keyword_groups_epfl_graph.py`.

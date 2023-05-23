@@ -16,7 +16,7 @@ GR-LUD,169977,Ludwig,Christian,,,2.7
 HERUS,265222,Binder Signer,Claudia Rebeca,Binder,Claudia R.,12.2
 IIE-GE,169209,Barry,David Andrew,,,0.7
 LAPI,296807,Nenes,Athanasios,,,10.4
-LASIG,265222,Binder Signer,Claudia Rebeca,Binder,Claudia R.,7.65
+LASIG,,,,,,7.65
 LBE,121849,Holliger,Christof,,,10.95
 LCE,173999,Kohn,Tamar,,,9.1
 LGB,220185,Meibom,Anders,,,14.05
@@ -27,9 +27,9 @@ MICROBE,363241,Gu,Wenyu,,,1
 PERL,318508,Grossiord,Charlotte,,,9.2
 RIVER,253102,Battin,Tom Ian,,,11.3
 SENSE,365575,Chappellaz,Jérôme,,,1.2
-SLAB,265222,Binder Signer,Claudia Rebeca,Binder,Claudia R.,1
+SLAB,,,,,,1
 SOIL,349140,Aeppli,Meret,,,1.3
-TOPO,265222,Binder Signer,Claudia Rebeca,Binder,Claudia R.,8.45
+TOPO,,,,,8.45
 TOX,205918,Schirmer,Kristin,,,2
 UPHCE,178483,Hering,Janet Gordon,,,1
 WIRE,168244,Porté Agel,Fernando,Porté-Agel,,9.9

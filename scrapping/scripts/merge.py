@@ -5,10 +5,11 @@ import os
 
 input_files = [
     "../data/extracted/epfl_graph.json",
+    "../data/extracted/epfl_graph_teaching.json",
     "../data/extracted/infoscience.json",
     "../data/scrapped/google_scholar.json",
 ]
-sources = ["epfl_graph", "infoscience", "google_scholar"]
+sources = ["epfl_graph", "epfl_graph_teaching", "infoscience", "google_scholar"]
 output_dir = "../data"
 output_filename = "all_sources.json"
 

@@ -1,0 +1,3289 @@
+{
+    "knowledge": {
+        "applied sciences": {
+            "civil engineering": {
+                "environmental engineering": {
+                    "global change": {
+                        "upwelling (keyword)": {},
+                        "climate change denial (keyword)": {},
+                        "ocean heat content (keyword)": {},
+                        "solar irradiance (keyword)": {},
+                        "climate change mitigation (keyword)": {},
+                        "climate change scenario (keyword)": {},
+                        "sea ice (keyword)": {},
+                        "bay (keyword)": {},
+                        "ozone depletion (keyword)": {},
+                        "climate change (keyword)": {},
+                        "sea surface temperature (keyword)": {},
+                        "earth's energy budget (keyword)": {},
+                        "nitrous oxide (keyword)": {},
+                        "black carbon (keyword)": {},
+                        "climate (keyword)": {},
+                        "atmospheric chemistry (keyword)": {},
+                        "special report on emissions scenarios (keyword)": {},
+                        "land (keyword)": {},
+                        "école polytechnique fédérale de lausanne (keyword)": {},
+                        "ozone (keyword)": {},
+                        "renewable energy commercialization (keyword)": {},
+                        "antarctic ice sheet (keyword)": {},
+                        "glacier (keyword)": {},
+                        "snow leopard (keyword)": {},
+                        "permafrost (keyword)": {},
+                        "antarctica (keyword)": {},
+                        "southern ocean (keyword)": {},
+                        "sea level rise (keyword)": {},
+                        "east antarctica (keyword)": {},
+                        "arctic (keyword)": {},
+                        "albedo (keyword)": {},
+                        "energy transition (keyword)": {},
+                        "glacier mass balance (keyword)": {},
+                        "polar regions of earth (keyword)": {},
+                        "climate model (keyword)": {},
+                        "sierra nevada (keyword)": {},
+                        "general circulation model (keyword)": {},
+                        "carbon dioxide removal (keyword)": {},
+                        "salt marsh (keyword)": {},
+                        "economic impacts of climate change (keyword)": {},
+                        "ocean current (keyword)": {},
+                        "retreat of glaciers since 1850 (keyword)": {},
+                        "marsh (keyword)": {},
+                        "natural gas (keyword)": {},
+                        "swash (keyword)": {},
+                        "thermohaline circulation (keyword)": {},
+                        "radiative forcing (keyword)": {},
+                        "shore (keyword)": {},
+                        "coast (keyword)": {},
+                        "trade winds (keyword)": {},
+                        "glacial period (keyword)": {},
+                        "last glacial maximum (keyword)": {},
+                        "global warming controversy (keyword)": {},
+                        "trace gas (keyword)": {},
+                        "ice age (keyword)": {},
+                        "holocene climatic optimum (keyword)": {},
+                        "climate sensitivity (keyword)": {},
+                        "arctic methane emissions (keyword)": {},
+                        "effects of climate change (keyword)": {},
+                        "greenhouse gas (keyword)": {},
+                        "atmospheric methane (keyword)": {},
+                        "interglacial (keyword)": {},
+                        "climate change feedback (keyword)": {},
+                        "tundra (keyword)": {},
+                        "el niño–southern oscillation (keyword)": {},
+                        "attribution of recent climate change (keyword)": {},
+                        "carbon capture and storage (keyword)": {},
+                        "ice core (keyword)": {},
+                        "carbon sequestration (keyword)": {},
+                        "climate variability and change (keyword)": {},
+                        "methane emissions (keyword)": {},
+                        "carbon sink (keyword)": {},
+                        "extreme weather (keyword)": {},
+                        "polar night (keyword)": {},
+                        "greenhouse effect (keyword)": {},
+                        "polar amplification (keyword)": {},
+                        "arctic ocean (keyword)": {},
+                        "emissions trading (keyword)": {},
+                        "arctic circle (keyword)": {},
+                        "tibetan plateau (keyword)": {},
+                        "aerosol spray dispenser (keyword)": {},
+                        "borehole (keyword)": {},
+                        "paddy field (keyword)": {},
+                        "life-cycle assessment (keyword)": {},
+                        "brackish water (keyword)": {},
+                        "energy development (keyword)": {},
+                        "sustainable energy (keyword)": {},
+                        "carbon footprint (keyword)": {},
+                        "energy industry (keyword)": {},
+                        "circular economy (keyword)": {},
+                        "energy security (keyword)": {},
+                        "nitrogen oxide (keyword)": {},
+                        "fossil fuel (keyword)": {},
+                        "hydroxyl radical (keyword)": {},
+                        "contiguous united states (keyword)": {},
+                        "ny-ålesund (keyword)": {},
+                        "emission intensity (keyword)": {},
+                        "sunlight (keyword)": {},
+                        "mudflat (keyword)": {},
+                        "petroleum (keyword)": {},
+                        "climatology (keyword)": {},
+                        "nitrogen dioxide (keyword)": {},
+                        "carbon dioxide scrubber (keyword)": {},
+                        "last glacial period (keyword)": {},
+                        "greenland ice sheet (keyword)": {},
+                        "global temperature record (keyword)": {}
+                    },
+                    "water pollution": {
+                        "harmful algal bloom (keyword)": {},
+                        "nutrient pollution (keyword)": {},
+                        "turbidity (keyword)": {},
+                        "water quality (keyword)": {},
+                        "water pollution (keyword)": {},
+                        "water (keyword)": {},
+                        "surface runoff (keyword)": {},
+                        "algal bloom (keyword)": {},
+                        "eutrophication (keyword)": {},
+                        "sewage treatment (keyword)": {},
+                        "drinking water (keyword)": {},
+                        "wastewater treatment (keyword)": {},
+                        "advanced oxidation process (keyword)": {},
+                        "aquatic plant (keyword)": {},
+                        "industrial wastewater treatment (keyword)": {},
+                        "sewage sludge (keyword)": {},
+                        "urban runoff (keyword)": {},
+                        "water purification (keyword)": {},
+                        "wastewater (keyword)": {},
+                        "effluent (keyword)": {},
+                        "secondary treatment (keyword)": {},
+                        "sanitation (keyword)": {},
+                        "waterborne diseases (keyword)": {},
+                        "constructed wetland (keyword)": {},
+                        "stormwater (keyword)": {},
+                        "sewerage (keyword)": {},
+                        "water treatment (keyword)": {},
+                        "seawater (keyword)": {},
+                        "impervious surface (keyword)": {},
+                        "infiltration (hydrology) (keyword)": {},
+                        "nonpoint source pollution (keyword)": {},
+                        "groundwater pollution (keyword)": {},
+                        "sustainable drainage system (keyword)": {},
+                        "total dissolved solids (keyword)": {},
+                        "groundwater recharge (keyword)": {},
+                        "clean water act (keyword)": {},
+                        "sanitary sewer overflow (keyword)": {},
+                        "stream restoration (keyword)": {},
+                        "anoxic waters (keyword)": {},
+                        "bioindicator (keyword)": {},
+                        "reclaimed water (keyword)": {},
+                        "flocculation (keyword)": {},
+                        "activated sludge (keyword)": {},
+                        "fecal coliform (keyword)": {},
+                        "solar water disinfection (keyword)": {},
+                        "enhanced biological phosphorus removal (keyword)": {},
+                        "fecal sludge management (keyword)": {},
+                        "waste stabilization pond (keyword)": {},
+                        "reuse of human excreta (keyword)": {},
+                        "water supply (keyword)": {}
+                    },
+                    "air pollution": {
+                        "transport (keyword)": {},
+                        "environmental monitoring (keyword)": {},
+                        "air pollution (keyword)": {},
+                        "persistent organic pollutant (keyword)": {},
+                        "particulates (keyword)": {},
+                        "aerosol (keyword)": {},
+                        "vehicle emissions control (keyword)": {},
+                        "polycyclic aromatic hydrocarbon (keyword)": {},
+                        "sustainable transport (keyword)": {},
+                        "car (keyword)": {},
+                        "travel (keyword)": {},
+                        "public transport (keyword)": {},
+                        "modal share (keyword)": {},
+                        "transportation planning (keyword)": {},
+                        "toxicity (keyword)": {},
+                        "pollutant (keyword)": {},
+                        "pollution (keyword)": {},
+                        "contamination (keyword)": {},
+                        "activated carbon (keyword)": {},
+                        "soil contamination (keyword)": {},
+                        "endocrine disruptor (keyword)": {},
+                        "environmental science (keyword)": {},
+                        "energy efficiency in transport (keyword)": {},
+                        "brownfield land (keyword)": {},
+                        "atmospheric dispersion modeling (keyword)": {},
+                        "environmental remediation (keyword)": {},
+                        "bioremediation (keyword)": {},
+                        "fire (keyword)": {},
+                        "cycling (keyword)": {},
+                        "air quality index (keyword)": {},
+                        "ground-level ozone (keyword)": {},
+                        "mineral dust (keyword)": {},
+                        "shewanella oneidensis (keyword)": {},
+                        "environmental impact assessment (keyword)": {},
+                        "groundwater remediation (keyword)": {},
+                        "carcinogen (keyword)": {},
+                        "biodiesel (keyword)": {},
+                        "flue gas (keyword)": {},
+                        "gasification (keyword)": {},
+                        "bioaerosol (keyword)": {},
+                        "dust (keyword)": {},
+                        "nox (keyword)": {},
+                        "smoke (keyword)": {},
+                        "road transport (keyword)": {},
+                        "combustion (keyword)": {},
+                        "non-methane volatile organic compound (keyword)": {},
+                        "phytoremediation (keyword)": {},
+                        "polychlorinated biphenyl (keyword)": {},
+                        "renewable fuels (keyword)": {},
+                        "environmental health (keyword)": {},
+                        "catalytic converter (keyword)": {}
+                    },
+                    "waste management and resource recovery": {
+                        "anaerobic digestion (keyword)": {},
+                        "waste (keyword)": {},
+                        "marine debris (keyword)": {},
+                        "microplastics (keyword)": {},
+                        "plastic pollution (keyword)": {},
+                        "polymer degradation (keyword)": {},
+                        "compost (keyword)": {},
+                        "leachate (keyword)": {},
+                        "biodegradation (keyword)": {},
+                        "litter (keyword)": {},
+                        "plastic bag (keyword)": {},
+                        "waste management (keyword)": {},
+                        "municipal solid waste (keyword)": {},
+                        "incineration (keyword)": {},
+                        "electronic waste (keyword)": {},
+                        "biogas (keyword)": {},
+                        "recycling (keyword)": {},
+                        "mechanical biological treatment (keyword)": {},
+                        "biodegradable waste (keyword)": {},
+                        "biodegradable plastic (keyword)": {}
+                    },
+                    "growth models": {
+                        "population dynamics (keyword)": {},
+                        "population ecology (keyword)": {},
+                        "life history theory (keyword)": {}
+                    }
+                },
+                "water resources engineering": {
+                    "hydrogeology": {
+                        "saltwater intrusion (keyword)": {},
+                        "water table (keyword)": {},
+                        "aquifer (keyword)": {},
+                        "groundwater model (keyword)": {},
+                        "hydrogeology (keyword)": {},
+                        "vadose zone (keyword)": {}
+                    }
+                },
+                "transportation engineering": {
+                    "traffic engineering": {
+                        "traffic collision (keyword)": {},
+                        "intelligent transportation system (keyword)": {},
+                        "street (keyword)": {}
+                    }
+                },
+                "geotechnical engineering": {
+                    "geotechnical investigation": {
+                        "porous medium (keyword)": {},
+                        "slope stability analysis (keyword)": {},
+                        "geotechnical engineering (keyword)": {},
+                        "hydraulic conductivity (keyword)": {},
+                        "porosity (keyword)": {},
+                        "bulk density (keyword)": {},
+                        "soil compaction (keyword)": {},
+                        "gabion (keyword)": {},
+                        "soil mechanics (keyword)": {}
+                    }
+                },
+                "architectural engineering": {
+                    "general architectural engineering": {
+                        "civil engineering (keyword)": {},
+                        "construction (keyword)": {},
+                        "building (keyword)": {}
+                    }
+                },
+                "structural engineering": {
+                    "practical structural engineering": {
+                        "structure (keyword)": {},
+                        "bending (keyword)": {},
+                        "cantilever bridge (keyword)": {},
+                        "stress concentration (keyword)": {}
+                    }
+                }
+            },
+            "computer engineering": {
+                "computer architecture": {
+                    "embedded systems": {
+                        "oxygen sensor (keyword)": {},
+                        "error (keyword)": {},
+                        "three-dimensional integrated circuit (keyword)": {},
+                        "fuel injection (keyword)": {}
+                    },
+                    "operating systems": {
+                        "android (operating system) (keyword)": {},
+                        "operating system (keyword)": {},
+                        "real-time computing (keyword)": {},
+                        "text-based user interface (keyword)": {},
+                        "question (keyword)": {},
+                        "application software (keyword)": {},
+                        "data storage (keyword)": {},
+                        "personal digital assistant (keyword)": {}
+                    },
+                    "systems architecture": {
+                        "scientific modelling (keyword)": {},
+                        "conceptual model (keyword)": {}
+                    }
+                },
+                "computer graphics": {
+                    "virtual reality": {
+                        "computer simulation (keyword)": {},
+                        "simulation (keyword)": {},
+                        "driving simulator (keyword)": {}
+                    },
+                    "rendering": {
+                        "texture mapping (keyword)": {},
+                        "3d modeling (keyword)": {}
+                    },
+                    "2d computer graphics": {
+                        "game controller (keyword)": {}
+                    },
+                    "computer animation": {
+                        "finding nemo (keyword)": {},
+                        "serial experiments lain (keyword)": {}
+                    }
+                },
+                "software and application development": {
+                    "human–computer interaction": {
+                        "human–computer interaction (keyword)": {},
+                        "design (keyword)": {},
+                        "user interface (keyword)": {}
+                    },
+                    "software development process": {
+                        "process modeling (keyword)": {},
+                        "modeling language (keyword)": {},
+                        "prototype (keyword)": {}
+                    }
+                },
+                "databases": {
+                    "data warehouses": {
+                        "big data (keyword)": {},
+                        "analytics (keyword)": {},
+                        "data (keyword)": {},
+                        "data analysis (keyword)": {},
+                        "predictive analytics (keyword)": {},
+                        "thermogravimetric analysis (keyword)": {},
+                        "data science (keyword)": {}
+                    },
+                    "relational databases": {
+                        "database (keyword)": {},
+                        "mental model (keyword)": {},
+                        "data model (keyword)": {}
+                    }
+                },
+                "computer networks": {
+                    "internet": {
+                        "information technology (keyword)": {},
+                        "google search (keyword)": {},
+                        "search engine optimization (keyword)": {},
+                        "search engine (keyword)": {},
+                        "microsoft bing (keyword)": {},
+                        "collaboration (keyword)": {},
+                        "elsevier (keyword)": {},
+                        "it infrastructure (keyword)": {},
+                        "getty images (keyword)": {},
+                        "social media (keyword)": {},
+                        "cloud computing (keyword)": {},
+                        "ibm (keyword)": {},
+                        "computer network (keyword)": {},
+                        "impact factor (keyword)": {},
+                        "american chemical society (keyword)": {}
+                    }
+                },
+                "parallel and distributed computing": {
+                    "distributed computing": {
+                        "high availability (keyword)": {},
+                        "fault tolerance (keyword)": {}
+                    },
+                    "parallel computing": {
+                        "handedness (keyword)": {}
+                    }
+                },
+                "computer security and cryptography": {
+                    "computer security threats": {
+                        "background check (keyword)": {},
+                        "wireless sensor network (keyword)": {},
+                        "privacy policy (keyword)": {},
+                        "information privacy (keyword)": {},
+                        "privacy (keyword)": {},
+                        "mobile wireless sensor network (keyword)": {},
+                        "fingerprint (keyword)": {},
+                        "computer virus (keyword)": {}
+                    },
+                    "cryptography": {
+                        "stochastic (keyword)": {},
+                        "randomness (keyword)": {}
+                    }
+                },
+                "hardware engineering": {
+                    "application-specific integrated circuit": {
+                        "computer performance (keyword)": {},
+                        "field-programmable gate array (keyword)": {}
+                    }
+                }
+            },
+            "information engineering": {
+                "artificial intelligence": {
+                    "data science": {
+                        "analysis (keyword)": {},
+                        "information system (keyword)": {},
+                        "decision support system (keyword)": {},
+                        "data set (keyword)": {}
+                    },
+                    "general machine learning": {
+                        "machine learning (keyword)": {},
+                        "crowdsourcing (keyword)": {},
+                        "tabu search (keyword)": {},
+                        "artificial intelligence (keyword)": {},
+                        "artificial immune system (keyword)": {},
+                        "evolutionary algorithm (keyword)": {},
+                        "unsupervised learning (keyword)": {},
+                        "evolutionary computation (keyword)": {},
+                        "embodied agent (keyword)": {},
+                        "partially observable markov decision process (keyword)": {},
+                        "particle swarm optimization (keyword)": {},
+                        "genetic algorithm (keyword)": {},
+                        "hyperparameter optimization (keyword)": {},
+                        "crossover (genetic algorithm) (keyword)": {},
+                        "swarm intelligence (keyword)": {},
+                        "metaheuristic (keyword)": {},
+                        "multi-agent system (keyword)": {},
+                        "support vector machine (keyword)": {},
+                        "multi-objective optimization (keyword)": {},
+                        "simulated annealing (keyword)": {},
+                        "multimodal interaction (keyword)": {},
+                        "pattern recognition (keyword)": {},
+                        "agent-based model (keyword)": {},
+                        "k-means clustering (keyword)": {},
+                        "non-negative matrix factorization (keyword)": {},
+                        "hierarchical clustering (keyword)": {},
+                        "cluster analysis (keyword)": {}
+                    },
+                    "computer vision": {
+                        "point cloud (keyword)": {},
+                        "kalman filter (keyword)": {},
+                        "particle filter (keyword)": {},
+                        "collision avoidance system (keyword)": {},
+                        "vehicle dynamics (keyword)": {},
+                        "motion capture (keyword)": {},
+                        "image segmentation (keyword)": {},
+                        "simultaneous localization and mapping (keyword)": {},
+                        "image analysis (keyword)": {},
+                        "template matching (keyword)": {},
+                        "3d reconstruction (keyword)": {},
+                        "bundle adjustment (keyword)": {}
+                    },
+                    "artificial neural networks": {
+                        "neural network (keyword)": {},
+                        "artificial neural network (keyword)": {},
+                        "deep learning (keyword)": {},
+                        "bio-inspired computing (keyword)": {},
+                        "reinforcement learning (keyword)": {},
+                        "synaptic plasticity (keyword)": {}
+                    },
+                    "knowledge representation and reasoning": {
+                        "semantic network (keyword)": {},
+                        "semantic web (keyword)": {}
+                    },
+                    "speech recognition": {
+                        "speech synthesis (keyword)": {},
+                        "graphical model (keyword)": {}
+                    },
+                    "natural language processing": {
+                        "computational linguistics (keyword)": {},
+                        "natural language processing (keyword)": {}
+                    }
+                },
+                "signal processing": {
+                    "digital image processing": {
+                        "image resolution (keyword)": {},
+                        "image sensor (keyword)": {},
+                        "pixel (keyword)": {},
+                        "noise reduction (keyword)": {},
+                        "digital image processing (keyword)": {},
+                        "charge-coupled device (keyword)": {}
+                    },
+                    "digital signal processing": {
+                        "two-photon excitation microscopy (keyword)": {},
+                        "frequency domain (keyword)": {},
+                        "fast fourier transform (keyword)": {},
+                        "analog-to-digital converter (keyword)": {},
+                        "fourier transform (keyword)": {}
+                    },
+                    "analog signal processing": {
+                        "signal processing (keyword)": {},
+                        "digital signal processing (keyword)": {}
+                    }
+                },
+                "control theory and engineering": {
+                    "control theory": {
+                        "steady state (keyword)": {},
+                        "feedback (keyword)": {},
+                        "markov decision process (keyword)": {},
+                        "trajectory optimization (keyword)": {},
+                        "control theory (keyword)": {},
+                        "negative feedback (keyword)": {}
+                    },
+                    "control system": {
+                        "automation (keyword)": {},
+                        "instrumentation (keyword)": {}
+                    }
+                },
+                "information theory": {
+                    "channel capacity": {
+                        "information (keyword)": {},
+                        "information theory (keyword)": {},
+                        "entropy (information theory) (keyword)": {}
+                    },
+                    "algorithmic information theory": {
+                        "stochastic process (keyword)": {},
+                        "random walk (keyword)": {}
+                    },
+                    "coding theory": {
+                        "code (keyword)": {}
+                    }
+                }
+            },
+            "energy engineering": {
+                "renewable energy": {
+                    "hydroelectricity": {
+                        "hydropower (keyword)": {},
+                        "reservoir (keyword)": {},
+                        "hydroelectricity (keyword)": {},
+                        "dam (keyword)": {},
+                        "energy in switzerland (keyword)": {},
+                        "rocky mountains (keyword)": {},
+                        "spillway (keyword)": {},
+                        "flood control (keyword)": {},
+                        "pump (keyword)": {},
+                        "hydraulic engineering (keyword)": {},
+                        "flume (keyword)": {},
+                        "small hydro (keyword)": {},
+                        "grand canyon (keyword)": {},
+                        "canyon (keyword)": {},
+                        "turbine (keyword)": {},
+                        "glacier national park (u.s.) (keyword)": {}
+                    },
+                    "geothermal power": {
+                        "power station (keyword)": {},
+                        "electricity generation (keyword)": {},
+                        "geothermal energy (keyword)": {}
+                    },
+                    "solar engineering": {
+                        "renewable energy (keyword)": {},
+                        "pumped-storage hydroelectricity (keyword)": {},
+                        "wind power (keyword)": {},
+                        "electric vehicle (keyword)": {},
+                        "wind power in india (keyword)": {},
+                        "solar power (keyword)": {},
+                        "electrical grid (keyword)": {},
+                        "solar energy (keyword)": {},
+                        "variable renewable energy (keyword)": {},
+                        "solar panel (keyword)": {},
+                        "photovoltaics (keyword)": {},
+                        "dye-sensitized solar cell (keyword)": {},
+                        "wave power (keyword)": {},
+                        "wind turbine (keyword)": {},
+                        "wind farm (keyword)": {},
+                        "wind power forecasting (keyword)": {},
+                        "solar cell (keyword)": {},
+                        "solar-cell efficiency (keyword)": {},
+                        "perovskite solar cell (keyword)": {},
+                        "energy demand management (keyword)": {},
+                        "quantitative proteomics (keyword)": {},
+                        "solar thermal collector (keyword)": {},
+                        "nonimaging optics (keyword)": {},
+                        "energy harvesting (keyword)": {},
+                        "electric energy consumption (keyword)": {},
+                        "wind resource assessment (keyword)": {},
+                        "wind-turbine aerodynamics (keyword)": {}
+                    },
+                    "wind energy": {
+                        "floating wind turbine (keyword)": {},
+                        "wind turbine design (keyword)": {}
+                    }
+                },
+                "non-renewable energy": {
+                    "nuclear power": {
+                        "heavy water (keyword)": {},
+                        "nuclear cross section (keyword)": {},
+                        "nuclear power plant (keyword)": {},
+                        "nuclear power (keyword)": {},
+                        "nuclear weapon yield (keyword)": {},
+                        "background radiation (keyword)": {},
+                        "manhattan project (keyword)": {},
+                        "uranium ore (keyword)": {},
+                        "isotopes of uranium (keyword)": {},
+                        "radioactive waste (keyword)": {},
+                        "enriched uranium (keyword)": {},
+                        "deep geological repository (keyword)": {},
+                        "uranium-238 (keyword)": {},
+                        "radioactive contamination (keyword)": {},
+                        "nuclear and radiation accidents and incidents (keyword)": {}
+                    }
+                }
+            },
+            "mechanical engineering": {
+                "thermal engineering": {
+                    "air conditioning": {
+                        "heat exchanger (keyword)": {},
+                        "urban heat island (keyword)": {},
+                        "heat sink (keyword)": {},
+                        "evaporative cooler (keyword)": {},
+                        "cooling tower (keyword)": {}
+                    },
+                    "heating": {
+                        "measurement (keyword)": {},
+                        "diffusion (keyword)": {},
+                        "convection (keyword)": {},
+                        "heat flux (keyword)": {},
+                        "heat flux sensor (keyword)": {},
+                        "heat transfer (keyword)": {},
+                        "calibration (keyword)": {},
+                        "thermal conductivity (keyword)": {},
+                        "convection (heat transfer) (keyword)": {},
+                        "transport phenomena (keyword)": {},
+                        "quantity (keyword)": {}
+                    },
+                    "ventilation": {
+                        "energy conservation (keyword)": {},
+                        "zero-energy building (keyword)": {},
+                        "indoor air quality (keyword)": {}
+                    }
+                },
+                "vehicle engineering": {
+                    "aerospace engineering": {
+                        "balloon (keyword)": {},
+                        "jet engine (keyword)": {},
+                        "spacecraft attitude control (keyword)": {},
+                        "wind tunnel (keyword)": {},
+                        "ablation (keyword)": {},
+                        "unmanned aerial vehicle (keyword)": {},
+                        "radar cross-section (keyword)": {},
+                        "micro air vehicle (keyword)": {},
+                        "engineering (keyword)": {},
+                        "earth observation (keyword)": {},
+                        "earth observation satellite (keyword)": {},
+                        "impacts of tourism (keyword)": {},
+                        "land cover (keyword)": {},
+                        "hot air balloon (keyword)": {},
+                        "methane (keyword)": {},
+                        "aircraft (keyword)": {},
+                        "drag coefficient (keyword)": {},
+                        "boundary layer control (keyword)": {},
+                        "sustainability measurement (keyword)": {},
+                        "composite material (keyword)": {},
+                        "lunar water (keyword)": {},
+                        "carbon-dioxide laser (keyword)": {},
+                        "general dynamics (keyword)": {},
+                        "spacecraft (keyword)": {}
+                    },
+                    "marine engineering": {
+                        "autonomous underwater vehicle (keyword)": {},
+                        "continental shelf (keyword)": {}
+                    }
+                },
+                "industrial plant engineering": {
+                    "pneumatics": {
+                        "vehicle (keyword)": {}
+                    },
+                    "hydraulics": {
+                        "hydraulic fluid (keyword)": {},
+                        "fluidics (keyword)": {},
+                        "siphon (keyword)": {},
+                        "hydraulics (keyword)": {}
+                    }
+                },
+                "mechatronics and robotics": {
+                    "robotics": {
+                        "robot kinematics (keyword)": {},
+                        "kinematics (keyword)": {},
+                        "swarm robotics (keyword)": {},
+                        "service robot (keyword)": {},
+                        "robot navigation (keyword)": {},
+                        "robotics (keyword)": {},
+                        "military robot (keyword)": {},
+                        "robotic vacuum cleaner (keyword)": {},
+                        "robot (keyword)": {},
+                        "domestic robot (keyword)": {},
+                        "human–robot interaction (keyword)": {},
+                        "robot learning (keyword)": {},
+                        "mobile robot (keyword)": {},
+                        "autonomous robot (keyword)": {},
+                        "vacuum cleaner (keyword)": {},
+                        "three laws of robotics (keyword)": {},
+                        "self-reconfiguring modular robot (keyword)": {},
+                        "microbotics (keyword)": {},
+                        "actuator (keyword)": {},
+                        "brushless dc electric motor (keyword)": {}
+                    }
+                },
+                "acoustical engineering": {
+                    "ultrasound": {
+                        "hearing range (keyword)": {},
+                        "particle velocity (keyword)": {},
+                        "transducer (keyword)": {},
+                        "ultrasound (keyword)": {},
+                        "frequency (keyword)": {},
+                        "piezoelectricity (keyword)": {}
+                    },
+                    "architectural acoustics": {
+                        "noise-induced hearing loss (keyword)": {},
+                        "noise pollution (keyword)": {}
+                    }
+                }
+            },
+            "electrical engineering": {
+                "power engineering": {
+                    "electric power transmission": {
+                        "rail transport (keyword)": {},
+                        "tunnel (keyword)": {},
+                        "lightning (keyword)": {}
+                    },
+                    "electricity generation": {
+                        "logarithmic mean temperature difference (keyword)": {},
+                        "energy conversion efficiency (keyword)": {},
+                        "supercritical fluid (keyword)": {}
+                    }
+                },
+                "electronic engineering": {
+                    "consumer electronics": {
+                        "sensor (keyword)": {},
+                        "superheterodyne receiver (keyword)": {}
+                    },
+                    "digital electronics": {
+                        "signal (keyword)": {},
+                        "cmos (keyword)": {}
+                    },
+                    "power electronics": {
+                        "electric motor (keyword)": {}
+                    },
+                    "analogue electronics": {
+                        "signal-to-noise ratio (keyword)": {}
+                    }
+                },
+                "telecommunications engineering": {
+                    "wireless communication": {
+                        "schumann resonances (keyword)": {}
+                    },
+                    "general telecommunications": {
+                        "high frequency (keyword)": {},
+                        "radio propagation (keyword)": {},
+                        "wireless (keyword)": {},
+                        "wireless network (keyword)": {},
+                        "distributed temperature sensing (keyword)": {},
+                        "radio frequency (keyword)": {},
+                        "microwave (keyword)": {},
+                        "differential signalling (keyword)": {},
+                        "ultra-wideband (keyword)": {},
+                        "antenna (radio) (keyword)": {},
+                        "multipath propagation (keyword)": {},
+                        "phased array (keyword)": {},
+                        "phase-shift keying (keyword)": {},
+                        "radio receiver (keyword)": {},
+                        "transmitter (keyword)": {}
+                    }
+                },
+                "photonics": {
+                    "general photonics": {
+                        "optical fiber (keyword)": {},
+                        "chemical vapor deposition (keyword)": {}
+                    }
+                }
+            },
+            "health sciences": {
+                "medicine": {
+                    "infectious diseases": {
+                        "gas exchange (keyword)": {},
+                        "gastric acid (keyword)": {},
+                        "infection (keyword)": {},
+                        "public health (keyword)": {},
+                        "infant mortality (keyword)": {},
+                        "antibiotic (keyword)": {},
+                        "antimicrobial resistance (keyword)": {},
+                        "cholera (keyword)": {},
+                        "history of cholera (keyword)": {},
+                        "biofilm (keyword)": {},
+                        "surgery (keyword)": {},
+                        "vibrio cholerae (keyword)": {},
+                        "pathogen transmission (keyword)": {},
+                        "disease (keyword)": {},
+                        "basic reproduction number (keyword)": {},
+                        "microbiota (keyword)": {},
+                        "microbiological culture (keyword)": {},
+                        "gram-positive bacteria (keyword)": {},
+                        "growth medium (keyword)": {},
+                        "clostridium (keyword)": {},
+                        "vaccine (keyword)": {},
+                        "bacillus (keyword)": {},
+                        "gut microbiota (keyword)": {},
+                        "body fluid (keyword)": {},
+                        "stomach (keyword)": {},
+                        "bacterial cell structure (keyword)": {},
+                        "disinfectant (keyword)": {},
+                        "gastrointestinal tract (keyword)": {},
+                        "extracellular polymeric substance (keyword)": {},
+                        "glucocorticoid (keyword)": {},
+                        "capillary (keyword)": {},
+                        "red blood cell (keyword)": {},
+                        "staphylococcus aureus (keyword)": {},
+                        "bacterial capsule (keyword)": {},
+                        "methicillin-resistant staphylococcus aureus (keyword)": {},
+                        "pseudomonadota (keyword)": {},
+                        "salmonella (keyword)": {},
+                        "biological system (keyword)": {},
+                        "antimicrobial (keyword)": {},
+                        "virus (keyword)": {},
+                        "pathogen (keyword)": {},
+                        "antiviral drug (keyword)": {},
+                        "therapy (keyword)": {},
+                        "serum albumin (keyword)": {},
+                        "organ (biology) (keyword)": {},
+                        "esophagus (keyword)": {},
+                        "endoscopy (keyword)": {},
+                        "gallbladder (keyword)": {},
+                        "bronchus (keyword)": {},
+                        "endothelium (keyword)": {}
+                    },
+                    "preventive healthcare": {
+                        "health care (keyword)": {},
+                        "health (keyword)": {}
+                    },
+                    "neurology": {
+                        "planning (keyword)": {},
+                        "skeletal muscle (keyword)": {}
+                    },
+                    "endocrinology": {
+                        "body mass index (keyword)": {}
+                    },
+                    "toxicology": {
+                        "ecotoxicology (keyword)": {},
+                        "environmental toxicology (keyword)": {},
+                        "toxicology (keyword)": {}
+                    },
+                    "radiology": {
+                        "magnetic resonance imaging (keyword)": {},
+                        "ionizing radiation (keyword)": {},
+                        "medical imaging (keyword)": {},
+                        "irradiation (keyword)": {}
+                    },
+                    "ophthalmology": {
+                        "glaucoma (keyword)": {},
+                        "fluorescein angiography (keyword)": {},
+                        "brain tumor (keyword)": {},
+                        "macular degeneration (keyword)": {}
+                    },
+                    "psychiatry": {
+                        "medical laboratory (keyword)": {},
+                        "integrative psychotherapy (keyword)": {},
+                        "medical diagnosis (keyword)": {},
+                        "patient (keyword)": {},
+                        "pathology (keyword)": {},
+                        "clinical psychology (keyword)": {}
+                    },
+                    "orthopedics": {
+                        "hand (keyword)": {}
+                    },
+                    "immunology": {
+                        "immune response (keyword)": {},
+                        "adaptive immune system (keyword)": {},
+                        "antibody (keyword)": {},
+                        "monoclonal antibody (keyword)": {},
+                        "cell-mediated immunity (keyword)": {},
+                        "lymph node (keyword)": {},
+                        "hematopoietic stem cell (keyword)": {},
+                        "cytotoxicity (keyword)": {}
+                    },
+                    "pathology": {
+                        "biomarker (keyword)": {},
+                        "melanoma (keyword)": {},
+                        "cancer (keyword)": {},
+                        "neoplasm (keyword)": {},
+                        "histology (keyword)": {},
+                        "doxorubicin (keyword)": {},
+                        "lung cancer (keyword)": {},
+                        "bladder cancer (keyword)": {},
+                        "colorectal cancer (keyword)": {},
+                        "cancer screening (keyword)": {},
+                        "gastrointestinal cancer (keyword)": {},
+                        "sarcoma (keyword)": {},
+                        "carcinoma (keyword)": {},
+                        "lesion (keyword)": {},
+                        "pancreatic cancer (keyword)": {},
+                        "oral cancer (keyword)": {},
+                        "ovarian cancer (keyword)": {},
+                        "squamous-cell carcinoma (keyword)": {},
+                        "basal-cell carcinoma (keyword)": {},
+                        "chemotherapy (keyword)": {}
+                    },
+                    "cardiology": {
+                        "blood vessel (keyword)": {},
+                        "circulatory system (keyword)": {},
+                        "anti-inflammatory (keyword)": {},
+                        "atherosclerosis (keyword)": {},
+                        "blood pressure (keyword)": {}
+                    },
+                    "intensive care medicine": {
+                        "bronchoscopy (keyword)": {}
+                    }
+                },
+                "pharmacology": {
+                    "pharmacokinetics": {
+                        "adverse effect (keyword)": {},
+                        "route of administration (keyword)": {},
+                        "phases of clinical research (keyword)": {},
+                        "topical medication (keyword)": {},
+                        "drug (keyword)": {},
+                        "pharmacokinetics (keyword)": {}
+                    },
+                    "drug discovery": {
+                        "high-throughput screening (keyword)": {},
+                        "small molecule (keyword)": {},
+                        "chemical property (keyword)": {},
+                        "secondary metabolism (keyword)": {},
+                        "secondary metabolite (keyword)": {},
+                        "preclinical development (keyword)": {}
+                    }
+                },
+                "physical therapy": {
+                    "general physical therapy": {
+                        "urinary bladder (keyword)": {}
+                    }
+                }
+            },
+            "chemical engineering": {
+                "chemical reaction engineering": {
+                    "chemical reactors and reactions": {
+                        "residence time (keyword)": {},
+                        "mass transfer (keyword)": {},
+                        "chemical engineering (keyword)": {},
+                        "chemical reactor (keyword)": {},
+                        "chemical plant (keyword)": {},
+                        "filtration (keyword)": {}
+                    }
+                },
+                "materials science": {
+                    "metallurgy": {
+                        "heavy metals (keyword)": {},
+                        "residual stress (keyword)": {},
+                        "precipitation hardening (keyword)": {},
+                        "lead (keyword)": {},
+                        "material (keyword)": {},
+                        "eutectic system (keyword)": {},
+                        "iron (keyword)": {},
+                        "metal (keyword)": {},
+                        "arsenic (keyword)": {},
+                        "manganese (keyword)": {},
+                        "trace element (keyword)": {},
+                        "heat treating (keyword)": {},
+                        "nickel (keyword)": {},
+                        "yield (engineering) (keyword)": {},
+                        "silver (keyword)": {},
+                        "zinc (keyword)": {},
+                        "platinum group (keyword)": {},
+                        "iron oxide (keyword)": {},
+                        "copper (keyword)": {},
+                        "platinum (keyword)": {},
+                        "ruthenium (keyword)": {},
+                        "aluminium oxide (keyword)": {}
+                    },
+                    "ceramic engineering": {
+                        "nanoparticle (keyword)": {},
+                        "ultrafine particle (keyword)": {},
+                        "particle size (keyword)": {}
+                    }
+                },
+                "molecular engineering and nanotechnology": {
+                    "nanotechnology": {
+                        "microelectromechanical systems (keyword)": {},
+                        "self-assembly (keyword)": {},
+                        "nanowire (keyword)": {},
+                        "scanning transmission electron microscopy (keyword)": {},
+                        "transmission electron microscopy (keyword)": {},
+                        "silver nanoparticle (keyword)": {},
+                        "electron diffraction (keyword)": {},
+                        "scanning electron microscope (keyword)": {},
+                        "high-resolution transmission electron microscopy (keyword)": {},
+                        "electron microscope (keyword)": {},
+                        "biosensor (keyword)": {},
+                        "nanomaterials (keyword)": {},
+                        "atomic force microscopy (keyword)": {},
+                        "nanomedicine (keyword)": {}
+                    }
+                },
+                "process engineering": {
+                    "cosmetics": {
+                        "mineral oil (keyword)": {},
+                        "surfactant (keyword)": {},
+                        "micelle (keyword)": {},
+                        "p-cymene (keyword)": {}
+                    }
+                }
+            },
+            "systems science and engineering": {
+                "theoretical systems science": {
+                    "complex systems": {
+                        "system (keyword)": {},
+                        "system dynamics (keyword)": {},
+                        "self-organization (keyword)": {},
+                        "complexity (keyword)": {},
+                        "complex system (keyword)": {},
+                        "unintended consequences (keyword)": {},
+                        "dissipative system (keyword)": {},
+                        "social system (keyword)": {},
+                        "complex adaptive system (keyword)": {},
+                        "sociotechnical system (keyword)": {},
+                        "systemics (keyword)": {},
+                        "synergy (keyword)": {}
+                    },
+                    "chaos theory": {
+                        "phase space (keyword)": {},
+                        "large numbers (keyword)": {},
+                        "self-organized criticality (keyword)": {},
+                        "nonlinear system (keyword)": {},
+                        "fractal (keyword)": {},
+                        "dynamical system (keyword)": {},
+                        "scale invariance (keyword)": {},
+                        "bacterial growth (keyword)": {},
+                        "order of magnitude (keyword)": {}
+                    }
+                },
+                "applied systems science": {
+                    "systems engineering": {
+                        "modeling and simulation (keyword)": {}
+                    }
+                }
+            },
+            "biological engineering and technology": {
+                "biotechnology": {
+                    "bioinformatics": {
+                        "metagenomics (keyword)": {},
+                        "tandem mass spectrometry (keyword)": {},
+                        "microbial ecology (keyword)": {},
+                        "proteomics (keyword)": {},
+                        "bioinformatics (keyword)": {},
+                        "functional genomics (keyword)": {},
+                        "gene prediction (keyword)": {}
+                    },
+                    "general biotech": {
+                        "biomass (energy) (keyword)": {},
+                        "algae fuel (keyword)": {},
+                        "biofuel (keyword)": {},
+                        "biodiesel production (keyword)": {},
+                        "selective laser sintering (keyword)": {},
+                        "environmental engineering (keyword)": {}
+                    },
+                    "medical image computing": {
+                        "x-ray microtomography (keyword)": {}
+                    },
+                    "synthetic biology": {
+                        "synthetic biology (keyword)": {}
+                    }
+                },
+                "biomedical engineering": {
+                    "genetic engineering": {
+                        "biotechnology (keyword)": {},
+                        "gene delivery (keyword)": {},
+                        "bioreactor (keyword)": {}
+                    },
+                    "tissue engineering": {
+                        "stem cell (keyword)": {},
+                        "ultrastructure (keyword)": {},
+                        "gel (keyword)": {}
+                    }
+                },
+                "ergonomics": {
+                    "general ergonomics": {
+                        "accuracy and precision (keyword)": {}
+                    }
+                }
+            },
+            "architecture": {
+                "current and historical architectural styles": {
+                    "modern architecture": {
+                        "moving walkway (keyword)": {},
+                        "architecture (keyword)": {}
+                    },
+                    "brutalist architecture": {
+                        "house (keyword)": {}
+                    },
+                    "international style": {
+                        "atlanta (keyword)": {}
+                    }
+                }
+            },
+            "business and finance": {
+                "accounting": {
+                    "audit": {
+                        "risk assessment (keyword)": {},
+                        "risk (keyword)": {},
+                        "risk management (keyword)": {},
+                        "conflict of interest (keyword)": {}
+                    },
+                    "financial accounting": {
+                        "accounting (keyword)": {}
+                    }
+                },
+                "general business management": {
+                    "business process management": {
+                        "process (keyword)": {}
+                    },
+                    "operations management": {
+                        "theory of constraints (keyword)": {}
+                    },
+                    "project management": {
+                        "project (keyword)": {},
+                        "project management (keyword)": {}
+                    },
+                    "knowledge management": {
+                        "knowledge economy (keyword)": {}
+                    }
+                },
+                "marketing": {
+                    "marketing management": {
+                        "swot analysis (keyword)": {}
+                    },
+                    "product promotion": {
+                        "online advertising (keyword)": {}
+                    }
+                }
+            },
+            "agricultural and food sciences": {
+                "aquaculture": {
+                    "fish farming": {
+                        "fishery (keyword)": {},
+                        "aquaculture (keyword)": {},
+                        "rainbow trout (keyword)": {}
+                    }
+                },
+                "food science": {
+                    "food chemistry": {
+                        "pesticide residue (keyword)": {},
+                        "food safety (keyword)": {}
+                    }
+                }
+            },
+            "industrial engineering": {
+                "reliability engineering": {
+                    "general reliability engineering": {
+                        "reliability engineering (keyword)": {},
+                        "probabilistic risk assessment (keyword)": {}
+                    }
+                }
+            }
+        },
+        "natural sciences": {
+            "physics": {
+                "condensed matter physics": {
+                    "phase transitions": {
+                        "bulk modulus (keyword)": {},
+                        "evaporation (keyword)": {},
+                        "liquid (keyword)": {},
+                        "magnetic nanoparticles (keyword)": {},
+                        "hysteresis (keyword)": {},
+                        "mixture (keyword)": {},
+                        "macroscopic quantum phenomena (keyword)": {},
+                        "condensation (keyword)": {},
+                        "vapor (keyword)": {},
+                        "high-temperature superconductivity (keyword)": {},
+                        "superconductivity (keyword)": {},
+                        "freezing (keyword)": {},
+                        "nucleation (keyword)": {},
+                        "bose–einstein condensate (keyword)": {},
+                        "dry ice (keyword)": {},
+                        "supersaturation (keyword)": {},
+                        "vapor pressure (keyword)": {}
+                    },
+                    "plasma physics": {
+                        "collision (keyword)": {},
+                        "color temperature (keyword)": {},
+                        "electricity (keyword)": {},
+                        "image (spacecraft) (keyword)": {},
+                        "plasma (physics) (keyword)": {},
+                        "instability (keyword)": {},
+                        "advanced composition explorer (keyword)": {},
+                        "fluorescent lamp (keyword)": {},
+                        "ultraviolet (keyword)": {},
+                        "image intensifier (keyword)": {}
+                    },
+                    "solid-state physics": {
+                        "materials science (keyword)": {},
+                        "crystal (keyword)": {},
+                        "solid (keyword)": {},
+                        "impurity (keyword)": {},
+                        "electrical resistivity and conductivity (keyword)": {},
+                        "band gap (keyword)": {},
+                        "semiconductor (keyword)": {}
+                    },
+                    "states of matter": {
+                        "phase transition (keyword)": {}
+                    }
+                },
+                "mechanics": {
+                    "fluid mechanics": {
+                        "fluid dynamics (keyword)": {},
+                        "turbulence (keyword)": {},
+                        "boundary layer (keyword)": {},
+                        "navier–stokes equations (keyword)": {},
+                        "mass flux (keyword)": {},
+                        "large eddy simulation (keyword)": {},
+                        "flow velocity (keyword)": {},
+                        "viscosity (keyword)": {},
+                        "pressure measurement (keyword)": {},
+                        "drag (physics) (keyword)": {},
+                        "flow measurement (keyword)": {},
+                        "pressure (keyword)": {},
+                        "buoyancy (keyword)": {},
+                        "model (keyword)": {},
+                        "hydraulic jump (keyword)": {},
+                        "scale model (keyword)": {},
+                        "computational fluid dynamics (keyword)": {},
+                        "direct numerical simulation (keyword)": {},
+                        "shear stress (keyword)": {},
+                        "turbulence kinetic energy (keyword)": {},
+                        "multiphase flow (keyword)": {},
+                        "material derivative (keyword)": {},
+                        "ludwig prandtl (keyword)": {},
+                        "free surface (keyword)": {},
+                        "advection (keyword)": {},
+                        "reynolds stress (keyword)": {},
+                        "open-channel flow (keyword)": {},
+                        "rheology (keyword)": {},
+                        "terminal velocity (keyword)": {},
+                        "froude number (keyword)": {},
+                        "two-phase flow (keyword)": {},
+                        "strain rate (keyword)": {},
+                        "shear velocity (keyword)": {},
+                        "reynolds number (keyword)": {},
+                        "turbulence modeling (keyword)": {},
+                        "volumetric flow rate (keyword)": {},
+                        "altimeter (keyword)": {}
+                    },
+                    "classical mechanics": {
+                        "trajectory (keyword)": {},
+                        "momentum (keyword)": {},
+                        "velocity (keyword)": {},
+                        "angular momentum (keyword)": {},
+                        "kinetic energy (keyword)": {},
+                        "coriolis force (keyword)": {},
+                        "potential energy (keyword)": {},
+                        "potential (keyword)": {},
+                        "mechanics (keyword)": {}
+                    },
+                    "dynamics": {
+                        "top (keyword)": {},
+                        "rotation around a fixed axis (keyword)": {},
+                        "angular velocity (keyword)": {}
+                    }
+                },
+                "statistical mechanics and thermodynamics": {
+                    "thermodynamics": {
+                        "dissipation (keyword)": {},
+                        "latent heat (keyword)": {},
+                        "heat (keyword)": {},
+                        "temperature (keyword)": {},
+                        "gas (keyword)": {},
+                        "thermodynamic equilibrium (keyword)": {},
+                        "statistical mechanics (keyword)": {},
+                        "non-equilibrium thermodynamics (keyword)": {},
+                        "temperature measurement (keyword)": {},
+                        "closed system (keyword)": {},
+                        "maxwell–boltzmann distribution (keyword)": {},
+                        "entropy (keyword)": {},
+                        "internal energy (keyword)": {},
+                        "number density (keyword)": {},
+                        "thermodynamics (keyword)": {},
+                        "particle number (keyword)": {},
+                        "room temperature (keyword)": {},
+                        "gas turbine (keyword)": {}
+                    },
+                    "statistical mechanics": {
+                        "identical particles (keyword)": {}
+                    }
+                },
+                "relativity": {
+                    "general relativity": {
+                        "time (keyword)": {},
+                        "space (keyword)": {},
+                        "mass (keyword)": {},
+                        "theoretical physics (keyword)": {},
+                        "physics (keyword)": {},
+                        "hall effect sensor (keyword)": {},
+                        "speed of light (keyword)": {},
+                        "gravitational constant (keyword)": {},
+                        "matter (keyword)": {}
+                    },
+                    "special relativity": {
+                        "conservation of mass (keyword)": {},
+                        "invariant mass (keyword)": {},
+                        "lorentz transformation (keyword)": {},
+                        "pseudorapidity (keyword)": {},
+                        "rapidity (keyword)": {},
+                        "energy (keyword)": {},
+                        "conservation of energy (keyword)": {}
+                    }
+                },
+                "atomic, molecular, and optical physics": {
+                    "optics": {
+                        "thermography (keyword)": {},
+                        "polarization (physics) (keyword)": {},
+                        "laser (keyword)": {},
+                        "infrared detector (keyword)": {},
+                        "cross section (physics) (keyword)": {},
+                        "transverse wave (keyword)": {},
+                        "stokes parameters (keyword)": {},
+                        "liquid crystal (keyword)": {},
+                        "wave (keyword)": {},
+                        "attenuation (keyword)": {},
+                        "wave propagation (keyword)": {},
+                        "camera (keyword)": {},
+                        "absorption spectroscopy (keyword)": {},
+                        "optical properties (keyword)": {},
+                        "refractive index (keyword)": {},
+                        "absorption (electromagnetic radiation) (keyword)": {},
+                        "imaging (keyword)": {},
+                        "optical depth (keyword)": {},
+                        "scattering (keyword)": {},
+                        "atomic layer deposition (keyword)": {},
+                        "diffuse reflection (keyword)": {},
+                        "thin film (keyword)": {},
+                        "attenuation coefficient (keyword)": {},
+                        "mass attenuation coefficient (keyword)": {},
+                        "laser diode (keyword)": {},
+                        "ion laser (keyword)": {},
+                        "optics (keyword)": {},
+                        "wavelength (keyword)": {},
+                        "optical engineering (keyword)": {},
+                        "optical lens design (keyword)": {},
+                        "magnification (keyword)": {},
+                        "plasma-enhanced chemical vapor deposition (keyword)": {}
+                    }
+                },
+                "quantum mechanics": {
+                    "quantum field theory": {
+                        "particle (keyword)": {},
+                        "large extra dimensions (keyword)": {},
+                        "elementary charge (keyword)": {},
+                        "spin (physics) (keyword)": {},
+                        "superstring theory (keyword)": {},
+                        "photon (keyword)": {},
+                        "perturbation theory (quantum mechanics) (keyword)": {},
+                        "uncertainty principle (keyword)": {},
+                        "resonance (keyword)": {},
+                        "extra dimensions (keyword)": {},
+                        "randall–sundrum model (keyword)": {},
+                        "particle-size distribution (keyword)": {},
+                        "schrödinger equation (keyword)": {},
+                        "macroscopic scale (keyword)": {},
+                        "small-angle x-ray scattering (keyword)": {},
+                        "wave–particle duality (keyword)": {},
+                        "quantum mechanics (keyword)": {},
+                        "harmonic oscillator (keyword)": {}
+                    },
+                    "quantum information": {
+                        "double-slit experiment (keyword)": {}
+                    }
+                },
+                "nuclear and particle physics": {
+                    "particle physics": {
+                        "electroweak interaction (keyword)": {},
+                        "j/psi meson (keyword)": {},
+                        "strange quark (keyword)": {},
+                        "branching fraction (keyword)": {},
+                        "elementary particle (keyword)": {},
+                        "graviton (keyword)": {},
+                        "gluon (keyword)": {},
+                        "yukawa interaction (keyword)": {},
+                        "lepton number (keyword)": {},
+                        "hadron (keyword)": {},
+                        "pair production (keyword)": {},
+                        "b meson (keyword)": {},
+                        "quark–gluon plasma (keyword)": {},
+                        "flavour (particle physics) (keyword)": {},
+                        "nuclear force (keyword)": {},
+                        "meson (keyword)": {},
+                        "muon (keyword)": {},
+                        "higgs boson (keyword)": {},
+                        "boson (keyword)": {},
+                        "subatomic particle (keyword)": {},
+                        "neutrino (keyword)": {},
+                        "jet (particle physics) (keyword)": {},
+                        "nucleon (keyword)": {},
+                        "baryon asymmetry (keyword)": {},
+                        "supersymmetry (keyword)": {},
+                        "quantum chromodynamics binding energy (keyword)": {},
+                        "particle physics (keyword)": {},
+                        "proton (keyword)": {},
+                        "gauge theory (keyword)": {},
+                        "up quark (keyword)": {},
+                        "down quark (keyword)": {},
+                        "charm quark (keyword)": {},
+                        "top quark (keyword)": {},
+                        "bottom quark (keyword)": {},
+                        "proton decay (keyword)": {},
+                        "compact muon solenoid (keyword)": {},
+                        "sterile neutrino (keyword)": {},
+                        "quark (keyword)": {},
+                        "quantum chromodynamics (keyword)": {},
+                        "flavor-changing neutral current (keyword)": {},
+                        "strong interaction (keyword)": {},
+                        "scalar boson (keyword)": {},
+                        "tau (particle) (keyword)": {},
+                        "neutralino (keyword)": {},
+                        "weak interaction (keyword)": {},
+                        "event generator (keyword)": {},
+                        "parton (particle physics) (keyword)": {},
+                        "large hadron collider (keyword)": {},
+                        "cern (keyword)": {},
+                        "luminosity (scattering theory) (keyword)": {},
+                        "neutral current (keyword)": {},
+                        "physics beyond the standard model (keyword)": {},
+                        "w and z bosons (keyword)": {},
+                        "gauge boson (keyword)": {},
+                        "two-higgs-doublet model (keyword)": {},
+                        "neutral particle (keyword)": {},
+                        "lightest supersymmetric particle (keyword)": {},
+                        "standard model (keyword)": {},
+                        "exotic atom (keyword)": {},
+                        "large electron–positron collider (keyword)": {},
+                        "minimal supersymmetric standard model (keyword)": {},
+                        "lepton (keyword)": {},
+                        "superpartner (keyword)": {},
+                        "gluino (keyword)": {},
+                        "higgs mechanism (keyword)": {},
+                        "vector boson (keyword)": {},
+                        "effective field theory (keyword)": {},
+                        "coupling constant (keyword)": {},
+                        "chargino (keyword)": {},
+                        "particle decay (keyword)": {},
+                        "relativistic heavy ion collider (keyword)": {},
+                        "length scale (keyword)": {},
+                        "future circular collider (keyword)": {}
+                    },
+                    "nuclear physics": {
+                        "gamma ray (keyword)": {},
+                        "radioactive decay (keyword)": {},
+                        "decay chain (keyword)": {},
+                        "alpha particle (keyword)": {},
+                        "radiation (keyword)": {},
+                        "nuclear binding energy (keyword)": {},
+                        "mass–energy equivalence (keyword)": {},
+                        "beta decay (keyword)": {},
+                        "decay product (keyword)": {},
+                        "electron (keyword)": {},
+                        "isotope (keyword)": {},
+                        "radioactive tracer (keyword)": {},
+                        "uranium (keyword)": {},
+                        "sputtering (keyword)": {},
+                        "binding energy (keyword)": {},
+                        "atom (keyword)": {}
+                    }
+                },
+                "electromagnetism": {
+                    "electrical networks": {
+                        "temperature coefficient (keyword)": {},
+                        "eddy current (keyword)": {},
+                        "electric current (keyword)": {},
+                        "the challenge (tv series) (keyword)": {},
+                        "low-noise amplifier (keyword)": {}
+                    },
+                    "electrostatics": {
+                        "electric charge (keyword)": {},
+                        "inkjet printing (keyword)": {},
+                        "magnetic field (keyword)": {},
+                        "electromagnetic field (keyword)": {},
+                        "electric potential (keyword)": {}
+                    }
+                },
+                "computational physics": {
+                    "computational electromagnetics": {
+                        "boundary element method (keyword)": {}
+                    },
+                    "computational mechanics": {
+                        "energy system (keyword)": {}
+                    }
+                }
+            },
+            "earth science": {
+                "technical and computational geography": {
+                    "geographic information systems": {
+                        "satellite imagery (keyword)": {},
+                        "remote sensing (keyword)": {},
+                        "physical geography (keyword)": {},
+                        "geographic information system (keyword)": {},
+                        "elevation (keyword)": {},
+                        "geographic information system software (keyword)": {},
+                        "geography (keyword)": {},
+                        "geographic information science (keyword)": {},
+                        "map (keyword)": {},
+                        "arcgis (keyword)": {},
+                        "spatial analysis (keyword)": {},
+                        "lidar (keyword)": {},
+                        "spatial database (keyword)": {},
+                        "georeferencing (keyword)": {},
+                        "geographic data and information (keyword)": {},
+                        "geostatistics (keyword)": {},
+                        "digital elevation model (keyword)": {},
+                        "historical geographic information system (keyword)": {},
+                        "photogrammetry (keyword)": {},
+                        "terrain (keyword)": {},
+                        "topography (keyword)": {},
+                        "aerial photography (keyword)": {},
+                        "map projection (keyword)": {},
+                        "bathymetry (keyword)": {},
+                        "location (keyword)": {},
+                        "sentinel-2 (keyword)": {},
+                        "geomatics (keyword)": {},
+                        "precision agriculture (keyword)": {},
+                        "surveying (keyword)": {}
+                    },
+                    "global navigation satellite systems": {
+                        "inertial navigation system (keyword)": {},
+                        "satellite (keyword)": {},
+                        "satellite navigation device (keyword)": {},
+                        "global positioning system (keyword)": {},
+                        "galileo (satellite navigation) (keyword)": {},
+                        "satellite navigation (keyword)": {},
+                        "inertial measurement unit (keyword)": {},
+                        "receiver autonomous integrity monitoring (keyword)": {},
+                        "gnss augmentation (keyword)": {},
+                        "indoor positioning system (keyword)": {},
+                        "gps signals (keyword)": {},
+                        "dead reckoning (keyword)": {},
+                        "automotive navigation system (keyword)": {},
+                        "real-time kinematic positioning (keyword)": {},
+                        "synchronization (keyword)": {},
+                        "geostationary orbit (keyword)": {},
+                        "navigation system (keyword)": {},
+                        "gyroscope (keyword)": {},
+                        "low earth orbit (keyword)": {},
+                        "cubesat (keyword)": {},
+                        "medium earth orbit (keyword)": {}
+                    },
+                    "cartography": {
+                        "azimuth (keyword)": {},
+                        "avalanche (keyword)": {},
+                        "cardinal direction (keyword)": {}
+                    }
+                },
+                "atmospheric science": {
+                    "meteorology": {
+                        "numerical weather prediction (keyword)": {},
+                        "wind (keyword)": {},
+                        "wind speed (keyword)": {},
+                        "meteorology (keyword)": {},
+                        "season (keyword)": {},
+                        "summer (keyword)": {},
+                        "atmospheric temperature (keyword)": {},
+                        "winter (keyword)": {},
+                        "surface layer (keyword)": {},
+                        "visibility (keyword)": {},
+                        "atmosphere of earth (keyword)": {},
+                        "cloud condensation nuclei (keyword)": {},
+                        "precipitation (keyword)": {},
+                        "water vapor (keyword)": {},
+                        "planetary boundary layer (keyword)": {},
+                        "precipitation types (keyword)": {},
+                        "storm (keyword)": {},
+                        "rain (keyword)": {},
+                        "weather station (keyword)": {},
+                        "snow (keyword)": {},
+                        "anemometer (keyword)": {},
+                        "spring (season) (keyword)": {},
+                        "eddy covariance (keyword)": {},
+                        "wet-bulb temperature (keyword)": {},
+                        "atmospheric circulation (keyword)": {},
+                        "cloud (keyword)": {},
+                        "humidity (keyword)": {},
+                        "weather forecasting (keyword)": {},
+                        "prevailing winds (keyword)": {},
+                        "pressure gradient (keyword)": {},
+                        "thermal (keyword)": {},
+                        "chemical transport model (keyword)": {},
+                        "troposphere (keyword)": {},
+                        "air mass (keyword)": {},
+                        "ice nucleus (keyword)": {},
+                        "cloud seeding (keyword)": {},
+                        "cirrus cloud (keyword)": {},
+                        "cloud physics (keyword)": {},
+                        "atmospheric instability (keyword)": {},
+                        "thermal wind (keyword)": {},
+                        "radiosonde (keyword)": {},
+                        "india meteorological department (keyword)": {},
+                        "geostrophic wind (keyword)": {},
+                        "temperature gradient (keyword)": {},
+                        "cloud cover (keyword)": {},
+                        "ice crystals (keyword)": {},
+                        "atmospheric river (keyword)": {},
+                        "cloud forcing (keyword)": {},
+                        "cumulus cloud (keyword)": {},
+                        "atmospheric model (keyword)": {},
+                        "atmospheric physics (keyword)": {},
+                        "flash flood (keyword)": {},
+                        "weather (keyword)": {},
+                        "orographic lift (keyword)": {},
+                        "weather radar (keyword)": {}
+                    },
+                    "paleoclimatology": {
+                        "great oxidation event (keyword)": {},
+                        "coral (keyword)": {},
+                        "geologic time scale (keyword)": {},
+                        "stable isotope ratio (keyword)": {},
+                        "extinction event (keyword)": {},
+                        "geochemistry (keyword)": {},
+                        "microalgae (keyword)": {},
+                        "history of life (keyword)": {},
+                        "holocene (keyword)": {},
+                        "palynology (keyword)": {},
+                        "biogenic substance (keyword)": {},
+                        "microbial mat (keyword)": {},
+                        "biomineralization (keyword)": {},
+                        "isotopic signature (keyword)": {},
+                        "hydrothermal vent (keyword)": {},
+                        "isotope fractionation (keyword)": {},
+                        "fossil (keyword)": {},
+                        "exoskeleton (keyword)": {},
+                        "isotopes of oxygen (keyword)": {},
+                        "foraminifera (keyword)": {},
+                        "zooxanthellae (keyword)": {},
+                        "cretaceous (keyword)": {},
+                        "scleractinia (keyword)": {},
+                        "anoxic event (keyword)": {},
+                        "diatom (keyword)": {}
+                    }
+                },
+                "physical geography": {
+                    "hydrology": {
+                        "trophic state index (keyword)": {},
+                        "surface water (keyword)": {},
+                        "snowpack (keyword)": {},
+                        "hydrology (keyword)": {},
+                        "water content (keyword)": {},
+                        "water cycle (keyword)": {},
+                        "snowmelt (keyword)": {},
+                        "evapotranspiration (keyword)": {},
+                        "subsurface flow (keyword)": {},
+                        "hydrograph (keyword)": {},
+                        "groundwater (keyword)": {},
+                        "water storage (keyword)": {},
+                        "drainage (keyword)": {},
+                        "hydrological transport model (keyword)": {},
+                        "discharge (hydrology) (keyword)": {},
+                        "water potential (keyword)": {},
+                        "drought (keyword)": {},
+                        "irrigation (keyword)": {},
+                        "drip irrigation (keyword)": {}
+                    },
+                    "geomorphology": {
+                        "sediment (keyword)": {},
+                        "mountain (keyword)": {},
+                        "geomorphology (keyword)": {},
+                        "erosion (keyword)": {},
+                        "sedimentation (keyword)": {},
+                        "shingle beach (keyword)": {},
+                        "soil horizon (keyword)": {},
+                        "gravel (keyword)": {},
+                        "earthworm (keyword)": {},
+                        "soil type (keyword)": {},
+                        "soil texture (keyword)": {},
+                        "deposition (geology) (keyword)": {},
+                        "plateau (keyword)": {},
+                        "debris flow (keyword)": {}
+                    },
+                    "general physical geography": {
+                        "earth science (keyword)": {},
+                        "earth system science (keyword)": {}
+                    }
+                },
+                "geology": {
+                    "geochemistry": {
+                        "oceanic basin (keyword)": {},
+                        "mid-ocean ridge (keyword)": {},
+                        "partial melting (keyword)": {},
+                        "types of volcanic eruptions (keyword)": {}
+                    },
+                    "seismology": {
+                        "seiche (keyword)": {},
+                        "richter magnitude scale (keyword)": {},
+                        "american geophysical union (keyword)": {},
+                        "tectonics (keyword)": {},
+                        "inverse problem (keyword)": {}
+                    },
+                    "mineralogy": {
+                        "sedimentary rock (keyword)": {},
+                        "silicate mineral (keyword)": {},
+                        "sand (keyword)": {},
+                        "mineral (keyword)": {},
+                        "bauxite (keyword)": {},
+                        "clay (keyword)": {},
+                        "perovskite (structure) (keyword)": {},
+                        "calcium carbonate (keyword)": {},
+                        "aragonite (keyword)": {},
+                        "powder diffraction (keyword)": {},
+                        "calcite (keyword)": {},
+                        "weathering (keyword)": {},
+                        "x-ray crystallography (keyword)": {},
+                        "mineralogy (keyword)": {}
+                    },
+                    "geodesy": {
+                        "geographic coordinate conversion (keyword)": {},
+                        "geographic coordinate system (keyword)": {},
+                        "navigation (keyword)": {},
+                        "tide (keyword)": {},
+                        "sea level (keyword)": {},
+                        "earth (keyword)": {}
+                    },
+                    "stratigraphy": {
+                        "turbidity current (keyword)": {},
+                        "geology (keyword)": {}
+                    }
+                }
+            },
+            "biology": {
+                "ecology": {
+                    "conservation biology": {
+                        "great lakes (keyword)": {},
+                        "soil organic matter (keyword)": {},
+                        "human impact on the environment (keyword)": {},
+                        "lake erie (keyword)": {},
+                        "natural environment (keyword)": {},
+                        "ecosystem (keyword)": {},
+                        "organic farming (keyword)": {},
+                        "international union for conservation of nature (keyword)": {},
+                        "natural resource management (keyword)": {},
+                        "habitat fragmentation (keyword)": {},
+                        "resource depletion (keyword)": {},
+                        "habitat (keyword)": {},
+                        "habitat destruction (keyword)": {},
+                        "molecular ecology (keyword)": {},
+                        "biophysical environment (keyword)": {},
+                        "wildlife conservation (keyword)": {},
+                        "global change (keyword)": {},
+                        "sustainability (keyword)": {},
+                        "ecosystem service (keyword)": {},
+                        "environmentalism (keyword)": {},
+                        "grassland (keyword)": {},
+                        "endangered species (keyword)": {},
+                        "spatial ecology (keyword)": {},
+                        "conservation biology (keyword)": {},
+                        "environmental issues (keyword)": {},
+                        "sustainable development (keyword)": {},
+                        "plant breeding (keyword)": {},
+                        "environmental protection (keyword)": {},
+                        "soil (keyword)": {},
+                        "decline in amphibian populations (keyword)": {},
+                        "environmental performance index (keyword)": {},
+                        "biodiversity (keyword)": {},
+                        "agricultural soil science (keyword)": {},
+                        "exploitation of natural resources (keyword)": {},
+                        "cryoconservation of animal genetic resources (keyword)": {},
+                        "animal genetic resources for food and agriculture (keyword)": {},
+                        "ecosystem diversity (keyword)": {},
+                        "biodiversity loss (keyword)": {},
+                        "species distribution (keyword)": {},
+                        "biodiversity hotspot (keyword)": {},
+                        "agriculture (keyword)": {},
+                        "biological dispersal (keyword)": {},
+                        "gardening (keyword)": {},
+                        "land degradation (keyword)": {},
+                        "intensive farming (keyword)": {},
+                        "pesticide (keyword)": {},
+                        "herbicide (keyword)": {},
+                        "environmental degradation (keyword)": {},
+                        "water resources (keyword)": {},
+                        "vegetation (keyword)": {},
+                        "ecosystem management (keyword)": {},
+                        "soil erosion (keyword)": {},
+                        "metapopulation (keyword)": {},
+                        "ecology (keyword)": {},
+                        "community (ecology) (keyword)": {},
+                        "wildlife corridor (keyword)": {},
+                        "water scarcity (keyword)": {},
+                        "species richness (keyword)": {},
+                        "agricultural productivity (keyword)": {},
+                        "savanna (keyword)": {},
+                        "sustainable agriculture (keyword)": {},
+                        "natural resource (keyword)": {},
+                        "relative species abundance (keyword)": {},
+                        "ecosystem respiration (keyword)": {},
+                        "plant community (keyword)": {},
+                        "species–area relationship (keyword)": {},
+                        "soil management (keyword)": {},
+                        "rice (keyword)": {},
+                        "disturbance (ecology) (keyword)": {},
+                        "amazon basin (keyword)": {},
+                        "tillage (keyword)": {},
+                        "extinction (keyword)": {},
+                        "persistence hunting (keyword)": {},
+                        "species diversity (keyword)": {},
+                        "land use (keyword)": {},
+                        "invasive species (keyword)": {},
+                        "pest control (keyword)": {},
+                        "forest (keyword)": {},
+                        "soil respiration (keyword)": {},
+                        "soil carbon (keyword)": {},
+                        "natural landscape (keyword)": {},
+                        "restoration ecology (keyword)": {},
+                        "nitrogen fixation (keyword)": {},
+                        "soil functions (keyword)": {},
+                        "soil acidification (keyword)": {},
+                        "soil biology (keyword)": {},
+                        "topsoil (keyword)": {},
+                        "clearcutting (keyword)": {},
+                        "soil fertility (keyword)": {},
+                        "holocene extinction (keyword)": {},
+                        "plantation (keyword)": {},
+                        "agricultural land (keyword)": {},
+                        "apex predator (keyword)": {},
+                        "weed (keyword)": {},
+                        "shifting cultivation (keyword)": {},
+                        "forest ecology (keyword)": {},
+                        "pasture (keyword)": {},
+                        "keystone species (keyword)": {},
+                        "plant litter (keyword)": {},
+                        "canopy (biology) (keyword)": {},
+                        "soil structure (keyword)": {},
+                        "diversity index (keyword)": {},
+                        "alpha diversity (keyword)": {},
+                        "fertilizer (keyword)": {},
+                        "tropical vegetation (keyword)": {},
+                        "introduced species (keyword)": {},
+                        "cover crop (keyword)": {},
+                        "sustainable forest management (keyword)": {},
+                        "ecotone (keyword)": {},
+                        "biome (keyword)": {},
+                        "amazon rainforest (keyword)": {},
+                        "rainforest (keyword)": {},
+                        "phenology (keyword)": {},
+                        "landscape connectivity (keyword)": {},
+                        "forest cover (keyword)": {},
+                        "soil retrogression and degradation (keyword)": {},
+                        "forest management (keyword)": {},
+                        "deforestation (keyword)": {},
+                        "ecosystem engineer (keyword)": {},
+                        "abundance (ecology) (keyword)": {},
+                        "grazing (keyword)": {},
+                        "arable land (keyword)": {},
+                        "tropical rainforest (keyword)": {},
+                        "iron(ii) sulfide (keyword)": {},
+                        "zebra mussel (keyword)": {},
+                        "acid mine drainage (keyword)": {},
+                        "alpine plant (keyword)": {},
+                        "soil microbiology (keyword)": {},
+                        "pesticide application (keyword)": {},
+                        "overconsumption (economics) (keyword)": {},
+                        "environmental governance (keyword)": {},
+                        "common-pool resource (keyword)": {},
+                        "humic substance (keyword)": {},
+                        "wildfire (keyword)": {},
+                        "hydroponics (keyword)": {},
+                        "plant nutrition (keyword)": {},
+                        "harvest (keyword)": {},
+                        "mineralization (soil science) (keyword)": {},
+                        "pesticide resistance (keyword)": {},
+                        "manure (keyword)": {},
+                        "farm (keyword)": {}
+                    },
+                    "ecosystems": {
+                        "organic matter (keyword)": {},
+                        "limnology (keyword)": {},
+                        "river (keyword)": {},
+                        "lake (keyword)": {},
+                        "drainage basin (keyword)": {},
+                        "lake stratification (keyword)": {},
+                        "aquatic ecosystem (keyword)": {},
+                        "nutrient cycle (keyword)": {},
+                        "lake ecosystem (keyword)": {},
+                        "sediment transport (keyword)": {},
+                        "body of water (keyword)": {},
+                        "phosphorus cycle (keyword)": {},
+                        "landscape (keyword)": {},
+                        "landscape ecology (keyword)": {},
+                        "ecosystem model (keyword)": {},
+                        "stream (keyword)": {},
+                        "alpine tundra (keyword)": {},
+                        "ecological succession (keyword)": {},
+                        "river ecosystem (keyword)": {},
+                        "streamflow (keyword)": {},
+                        "alpine climate (keyword)": {},
+                        "snow line (keyword)": {},
+                        "wetland (keyword)": {},
+                        "abiotic component (keyword)": {},
+                        "mississippi river (keyword)": {},
+                        "biological interaction (keyword)": {},
+                        "ephemerality (keyword)": {},
+                        "fluvial processes (keyword)": {},
+                        "meander (keyword)": {},
+                        "riparian zone (keyword)": {},
+                        "montane ecosystems (keyword)": {},
+                        "ecological pyramid (keyword)": {},
+                        "flood (keyword)": {},
+                        "ecological niche (keyword)": {},
+                        "freshwater ecosystem (keyword)": {},
+                        "river delta (keyword)": {},
+                        "riparian forest (keyword)": {},
+                        "decomposition (keyword)": {},
+                        "river mouth (keyword)": {},
+                        "confluence (keyword)": {},
+                        "river engineering (keyword)": {},
+                        "nitrogen cycle (keyword)": {},
+                        "tributary (keyword)": {},
+                        "trophic level (keyword)": {},
+                        "altitudinal zonation (keyword)": {},
+                        "food web (keyword)": {},
+                        "bog (keyword)": {},
+                        "limiting factor (keyword)": {},
+                        "ecosystem ecology (keyword)": {},
+                        "cultural landscape (keyword)": {},
+                        "springtail (keyword)": {},
+                        "species complex (keyword)": {},
+                        "climax community (keyword)": {},
+                        "terrestrial ecosystem (keyword)": {},
+                        "secondary succession (keyword)": {},
+                        "decomposer (keyword)": {},
+                        "tree line (keyword)": {},
+                        "competition (biology) (keyword)": {},
+                        "biomass (ecology) (keyword)": {},
+                        "predation (keyword)": {},
+                        "sphagnum (keyword)": {},
+                        "biogeochemistry (keyword)": {},
+                        "peat (keyword)": {},
+                        "valley (keyword)": {},
+                        "riparian-zone restoration (keyword)": {},
+                        "socio-ecological system (keyword)": {},
+                        "selective breeding (keyword)": {},
+                        "nitrification (keyword)": {},
+                        "denitrification (keyword)": {}
+                    }
+                },
+                "cell biology": {
+                    "cell composition": {
+                        "cyanobacteria (keyword)": {},
+                        "bacteria (keyword)": {},
+                        "organism (keyword)": {},
+                        "transpiration (keyword)": {},
+                        "microorganism (keyword)": {},
+                        "parasitism (keyword)": {},
+                        "natural competence (keyword)": {},
+                        "protist (keyword)": {},
+                        "fungus (keyword)": {},
+                        "protozoa (keyword)": {},
+                        "ploidy (keyword)": {},
+                        "eukaryote (keyword)": {},
+                        "photosynthesis (keyword)": {},
+                        "autotroph (keyword)": {},
+                        "microbial consortium (keyword)": {},
+                        "normalized difference vegetation index (keyword)": {},
+                        "fertilisation (keyword)": {},
+                        "regeneration (biology) (keyword)": {},
+                        "cell culture (keyword)": {},
+                        "hek 293 cells (keyword)": {},
+                        "plasmid (keyword)": {},
+                        "immortalised cell line (keyword)": {},
+                        "bacillus subtilis (keyword)": {},
+                        "hair (keyword)": {},
+                        "bacteriophage (keyword)": {},
+                        "cellular differentiation (keyword)": {},
+                        "escherichia coli (keyword)": {},
+                        "algae (keyword)": {},
+                        "biological process (keyword)": {},
+                        "tissue (biology) (keyword)": {},
+                        "deep-water coral (keyword)": {},
+                        "green algae (keyword)": {},
+                        "symbiosis (keyword)": {},
+                        "cell (biology) (keyword)": {},
+                        "zebrafish (keyword)": {},
+                        "dinoflagellate (keyword)": {},
+                        "cell wall (keyword)": {},
+                        "cell biology (keyword)": {},
+                        "endosymbiont (keyword)": {},
+                        "heterotroph (keyword)": {},
+                        "optical coherence tomography (keyword)": {},
+                        "lichen (keyword)": {},
+                        "enrichment culture (keyword)": {},
+                        "horizontal gene transfer (keyword)": {},
+                        "brown algae (keyword)": {},
+                        "biological carbon fixation (keyword)": {},
+                        "x-inactivation (keyword)": {},
+                        "symbiotic bacteria (keyword)": {},
+                        "symbiogenesis (keyword)": {},
+                        "in vitro (keyword)": {},
+                        "skin (keyword)": {},
+                        "chlorophyll fluorescence (keyword)": {}
+                    },
+                    "cell metabolism": {
+                        "nutrient (keyword)": {},
+                        "extreme environment (keyword)": {},
+                        "metabolism (keyword)": {},
+                        "basal metabolic rate (keyword)": {},
+                        "mineral (nutrient) (keyword)": {},
+                        "anaerobic respiration (keyword)": {},
+                        "fermentation (keyword)": {},
+                        "electron transport chain (keyword)": {},
+                        "reductive dechlorination (keyword)": {},
+                        "sulfate-reducing microorganism (keyword)": {},
+                        "sulfur cycle (keyword)": {},
+                        "sulfur-reducing bacteria (keyword)": {},
+                        "microbial metabolism (keyword)": {},
+                        "reactive oxygen species (keyword)": {},
+                        "food additive (keyword)": {},
+                        "dietary reference intake (keyword)": {},
+                        "intravenous therapy (keyword)": {},
+                        "lipid (keyword)": {},
+                        "metabolic pathway (keyword)": {},
+                        "oxidative stress (keyword)": {},
+                        "photosynthetic efficiency (keyword)": {},
+                        "cellular respiration (keyword)": {},
+                        "drug metabolism (keyword)": {},
+                        "vitamin b12 (keyword)": {},
+                        "flavin adenine dinucleotide (keyword)": {},
+                        "carotenoid (keyword)": {},
+                        "propionic acid (keyword)": {},
+                        "detoxification (keyword)": {},
+                        "biochemistry (keyword)": {},
+                        "xenobiotic (keyword)": {},
+                        "metabolite (keyword)": {},
+                        "cofactor (biochemistry) (keyword)": {},
+                        "cytochrome p450 (keyword)": {},
+                        "nitrifying bacteria (keyword)": {},
+                        "anaerobic exercise (keyword)": {},
+                        "enzyme (keyword)": {},
+                        "anaerobic organism (keyword)": {},
+                        "urine (keyword)": {},
+                        "glycogen (keyword)": {},
+                        "antioxidant (keyword)": {},
+                        "photosynthetic reaction centre (keyword)": {}
+                    },
+                    "cell communication": {
+                        "molecular diffusion (keyword)": {},
+                        "flux (keyword)": {},
+                        "positive feedback (keyword)": {},
+                        "continuity equation (keyword)": {},
+                        "physiology (keyword)": {},
+                        "cell membrane (keyword)": {},
+                        "cell growth (keyword)": {},
+                        "luminescence (keyword)": {},
+                        "photoluminescence (keyword)": {},
+                        "g protein-coupled receptor (keyword)": {},
+                        "ligand-gated ion channel (keyword)": {},
+                        "membrane protein (keyword)": {},
+                        "chromophore (keyword)": {},
+                        "cell surface receptor (keyword)": {},
+                        "signal transduction (keyword)": {},
+                        "cell signaling (keyword)": {},
+                        "receptor (biochemistry) (keyword)": {},
+                        "olfactory receptor (keyword)": {},
+                        "5-ht3 receptor (keyword)": {},
+                        "golgi apparatus (keyword)": {},
+                        "active transport (keyword)": {},
+                        "epithelium (keyword)": {},
+                        "cellular compartment (keyword)": {},
+                        "cytoplasm (keyword)": {},
+                        "angiogenesis (keyword)": {},
+                        "atp-binding cassette transporter (keyword)": {},
+                        "integral membrane protein (keyword)": {},
+                        "mitochondrion (keyword)": {},
+                        "synaptogenesis (keyword)": {},
+                        "oral mucosa (keyword)": {}
+                    },
+                    "cell cycle": {
+                        "live-cell imaging (keyword)": {},
+                        "ageing (keyword)": {}
+                    }
+                },
+                "marine biology": {
+                    "general marine biology": {
+                        "total organic carbon (keyword)": {},
+                        "primary production (keyword)": {},
+                        "plankton (keyword)": {},
+                        "deep sea (keyword)": {},
+                        "biogeochemical cycle (keyword)": {},
+                        "mixed layer (keyword)": {},
+                        "phytoplankton (keyword)": {},
+                        "zooplankton (keyword)": {},
+                        "pelagic zone (keyword)": {},
+                        "littoral zone (keyword)": {},
+                        "coral bleaching (keyword)": {},
+                        "coral reef (keyword)": {},
+                        "carbon cycle (keyword)": {},
+                        "ocean (keyword)": {},
+                        "ocean acidification (keyword)": {},
+                        "photic zone (keyword)": {},
+                        "marine pollution (keyword)": {},
+                        "dissolved organic carbon (keyword)": {},
+                        "microbial loop (keyword)": {},
+                        "sea spray (keyword)": {},
+                        "particulate organic matter (keyword)": {},
+                        "marine microorganisms (keyword)": {},
+                        "mussel (keyword)": {},
+                        "marine habitats (keyword)": {},
+                        "benthos (keyword)": {},
+                        "benthic zone (keyword)": {},
+                        "marine ecosystem (keyword)": {},
+                        "sea (keyword)": {}
+                    }
+                },
+                "evolutionary biology": {
+                    "evolutionary developmental biology": {
+                        "aquatic animal (keyword)": {},
+                        "fish (keyword)": {},
+                        "amphibian (keyword)": {},
+                        "mathematical and theoretical biology (keyword)": {},
+                        "vertebrate (keyword)": {},
+                        "larva (keyword)": {},
+                        "animal (keyword)": {},
+                        "invertebrate (keyword)": {},
+                        "patterns in nature (keyword)": {}
+                    }
+                },
+                "zoology": {
+                    "ethology": {
+                        "evolution (keyword)": {},
+                        "species (keyword)": {},
+                        "phylogenetics (keyword)": {},
+                        "reproduction (keyword)": {},
+                        "morphology (biology) (keyword)": {},
+                        "phylogenetic tree (keyword)": {},
+                        "molecular phylogenetics (keyword)": {},
+                        "foraging (keyword)": {},
+                        "mammal (keyword)": {},
+                        "model organism (keyword)": {},
+                        "chicken (keyword)": {},
+                        "biology (keyword)": {},
+                        "mouse (keyword)": {}
+                    },
+                    "general zoology": {
+                        "taxonomic rank (keyword)": {},
+                        "taxon (keyword)": {},
+                        "taxonomy (biology) (keyword)": {},
+                        "dna barcoding (keyword)": {},
+                        "genus (keyword)": {}
+                    }
+                },
+                "epidemiology": {
+                    "general epidemiology": {
+                        "longitudinal study (keyword)": {},
+                        "epidemiology (keyword)": {},
+                        "case–control study (keyword)": {}
+                    }
+                },
+                "botany": {
+                    "plant physiology": {
+                        "plant (keyword)": {},
+                        "seed dispersal (keyword)": {},
+                        "xylem (keyword)": {},
+                        "willow (keyword)": {},
+                        "plant hormone (keyword)": {},
+                        "root (keyword)": {},
+                        "arbuscular mycorrhiza (keyword)": {},
+                        "moss (keyword)": {},
+                        "flowering plant (keyword)": {},
+                        "leaf (keyword)": {},
+                        "herbaceous plant (keyword)": {},
+                        "seed (keyword)": {},
+                        "pollen (keyword)": {},
+                        "non-vascular plant (keyword)": {},
+                        "mycorrhiza (keyword)": {},
+                        "deciduous (keyword)": {},
+                        "spore (keyword)": {},
+                        "fruit (keyword)": {},
+                        "germination (keyword)": {},
+                        "plant physiology (keyword)": {},
+                        "rhizosphere (keyword)": {},
+                        "plant taxonomy (keyword)": {}
+                    },
+                    "plant morphology": {
+                        "tree (keyword)": {},
+                        "spruce (keyword)": {},
+                        "pine (keyword)": {},
+                        "fagus sylvatica (keyword)": {},
+                        "acer pseudoplatanus (keyword)": {},
+                        "picea abies (keyword)": {},
+                        "abies alba (keyword)": {}
+                    }
+                },
+                "genetics": {
+                    "population genetics": {
+                        "natural selection (keyword)": {},
+                        "population genetics (keyword)": {},
+                        "phenotype (keyword)": {},
+                        "phenotypic plasticity (keyword)": {},
+                        "genetic variation (keyword)": {},
+                        "genetic diversity (keyword)": {},
+                        "evolutionary biology (keyword)": {},
+                        "adaptation (keyword)": {},
+                        "laboratory experiments of speciation (keyword)": {},
+                        "genetics (keyword)": {},
+                        "population bottleneck (keyword)": {},
+                        "mutation (keyword)": {},
+                        "history of evolutionary thought (keyword)": {},
+                        "genetic distance (keyword)": {},
+                        "evolutionary physiology (keyword)": {},
+                        "mutation rate (keyword)": {},
+                        "experimental evolution (keyword)": {}
+                    },
+                    "genomics": {
+                        "genomics (keyword)": {},
+                        "chinese hamster ovary cell (keyword)": {},
+                        "dna sequencing (keyword)": {},
+                        "whole genome sequencing (keyword)": {},
+                        "comparative genomics (keyword)": {}
+                    },
+                    "human genetics": {
+                        "citizen science (keyword)": {},
+                        "human (keyword)": {}
+                    }
+                },
+                "biophysics": {
+                    "biomechanics": {
+                        "walking (keyword)": {},
+                        "biomechanics (keyword)": {}
+                    }
+                },
+                "molecular biology": {
+                    "general molecular biology": {
+                        "gene (keyword)": {},
+                        "post-transcriptional modification (keyword)": {},
+                        "genome (keyword)": {},
+                        "recombinant dna (keyword)": {},
+                        "gene expression (keyword)": {},
+                        "protein production (keyword)": {},
+                        "cpg site (keyword)": {},
+                        "transgene (keyword)": {},
+                        "regulation of gene expression (keyword)": {},
+                        "expression vector (keyword)": {},
+                        "transfection (keyword)": {},
+                        "dna (keyword)": {},
+                        "fusion protein (keyword)": {},
+                        "molecular biology (keyword)": {},
+                        "reporter gene (keyword)": {},
+                        "human genome (keyword)": {},
+                        "gel electrophoresis (keyword)": {},
+                        "operon (keyword)": {},
+                        "pseudogene (keyword)": {},
+                        "restriction enzyme (keyword)": {},
+                        "point mutation (keyword)": {},
+                        "mutant (keyword)": {},
+                        "isoelectric focusing (keyword)": {}
+                    }
+                },
+                "physiology": {
+                    "cell physiology": {
+                        "european integration (keyword)": {},
+                        "european communities (keyword)": {}
+                    },
+                    "general physiology": {
+                        "oxygen toxicity (keyword)": {},
+                        "partial pressure (keyword)": {},
+                        "carbon monoxide poisoning (keyword)": {}
+                    }
+                },
+                "neuroscience": {
+                    "cognitive neuroscience": {
+                        "learning (keyword)": {}
+                    },
+                    "computational neuroscience": {
+                        "simulation hypothesis (keyword)": {}
+                    },
+                    "developmental neuroscience": {
+                        "neuron (keyword)": {},
+                        "synaptic pruning (keyword)": {},
+                        "axon (keyword)": {}
+                    }
+                },
+                "anatomy": {
+                    "neuroanatomy": {
+                        "sense (keyword)": {},
+                        "brain (keyword)": {},
+                        "human brain (keyword)": {}
+                    },
+                    "histology": {
+                        "confocal microscopy (keyword)": {},
+                        "skeleton (keyword)": {},
+                        "super-resolution microscopy (keyword)": {},
+                        "optical microscope (keyword)": {},
+                        "immunofluorescence (keyword)": {}
+                    }
+                },
+                "chronobiology": {
+                    "general chronobiology": {
+                        "diurnality (keyword)": {}
+                    }
+                }
+            },
+            "chemistry": {
+                "inorganic chemistry": {
+                    "coordination chemistry": {
+                        "alkalinity (keyword)": {},
+                        "electron configuration (keyword)": {},
+                        "ion exchange (keyword)": {},
+                        "periodic table (keyword)": {},
+                        "ph (keyword)": {},
+                        "electron donor (keyword)": {},
+                        "electron acceptor (keyword)": {},
+                        "sea salt (keyword)": {},
+                        "reducing atmosphere (keyword)": {},
+                        "xenon (keyword)": {},
+                        "acid (keyword)": {},
+                        "rare-earth element (keyword)": {},
+                        "ligand (keyword)": {},
+                        "abundance of the chemical elements (keyword)": {},
+                        "alkali metal (keyword)": {},
+                        "transition metal (keyword)": {},
+                        "inorganic chemistry (keyword)": {},
+                        "oxidation state (keyword)": {},
+                        "bicarbonate (keyword)": {},
+                        "chemistry (keyword)": {},
+                        "chemical element (keyword)": {},
+                        "bioaccumulation (keyword)": {},
+                        "singlet oxygen (keyword)": {},
+                        "molecule (keyword)": {},
+                        "acid dissociation constant (keyword)": {},
+                        "ionization energy (keyword)": {},
+                        "porphyrin (keyword)": {},
+                        "conjugate (acid-base theory) (keyword)": {},
+                        "aminolevulinic acid (keyword)": {},
+                        "protoporphyrin ix (keyword)": {}
+                    }
+                },
+                "organic chemistry": {
+                    "general organic chemistry": {
+                        "oxygen (keyword)": {},
+                        "phosphorus (keyword)": {},
+                        "density (keyword)": {},
+                        "chemical substance (keyword)": {},
+                        "volatile organic compound (keyword)": {},
+                        "amine (keyword)": {},
+                        "nitrate (keyword)": {},
+                        "organic compound (keyword)": {},
+                        "carbon (keyword)": {},
+                        "solubility (keyword)": {},
+                        "organochlorine chemistry (keyword)": {},
+                        "aromatic compound (keyword)": {},
+                        "melting point (keyword)": {},
+                        "precipitation (chemistry) (keyword)": {},
+                        "solution (chemistry) (keyword)": {},
+                        "carbon dioxide (keyword)": {},
+                        "empirical formula (keyword)": {},
+                        "hydrocarbon (keyword)": {},
+                        "organic acid anhydride (keyword)": {},
+                        "laboratory (keyword)": {},
+                        "hydrochloric acid (keyword)": {},
+                        "sodium nitrate (keyword)": {},
+                        "hydrogen chloride (keyword)": {},
+                        "nitrogen (keyword)": {},
+                        "aliphatic compound (keyword)": {},
+                        "solvent (keyword)": {},
+                        "ethylene (keyword)": {},
+                        "iodine (keyword)": {},
+                        "ammonium sulfate (keyword)": {},
+                        "mercury (element) (keyword)": {},
+                        "sulfur (keyword)": {},
+                        "sulfuric acid (keyword)": {},
+                        "sulfur dioxide (keyword)": {},
+                        "dimethyl sulfoxide (keyword)": {},
+                        "sulfate (keyword)": {},
+                        "hydrogen sulfide (keyword)": {},
+                        "sulfide (keyword)": {},
+                        "catalysis (keyword)": {},
+                        "calcium phosphate (keyword)": {},
+                        "organic chemistry (keyword)": {},
+                        "chlorine (keyword)": {},
+                        "functional group (keyword)": {},
+                        "carboxylic acid (keyword)": {},
+                        "dye (keyword)": {},
+                        "ethanol (keyword)": {},
+                        "hygroscopy (keyword)": {},
+                        "ammonia (keyword)": {},
+                        "ion (keyword)": {},
+                        "nitric acid (keyword)": {},
+                        "oxide (keyword)": {},
+                        "magnesium sulfate (keyword)": {},
+                        "redox (keyword)": {},
+                        "ammonium (keyword)": {},
+                        "ammonium nitrate (keyword)": {},
+                        "isoprene (keyword)": {},
+                        "aqueous solution (keyword)": {},
+                        "hydrogen (keyword)": {},
+                        "hydrogen peroxide (keyword)": {},
+                        "acetic acid (keyword)": {},
+                        "radical (chemistry) (keyword)": {},
+                        "titanium dioxide (keyword)": {},
+                        "phenols (keyword)": {},
+                        "aromaticity (keyword)": {},
+                        "chemical industry (keyword)": {},
+                        "chlorine dioxide (keyword)": {},
+                        "hydrogen bond (keyword)": {},
+                        "solvation (keyword)": {},
+                        "alkane (keyword)": {},
+                        "formaldehyde (keyword)": {},
+                        "chemical compound (keyword)": {}
+                    },
+                    "polymer chemistry": {
+                        "plastic (keyword)": {},
+                        "polyethylene (keyword)": {},
+                        "monomer (keyword)": {},
+                        "polymer characterization (keyword)": {},
+                        "glass transition (keyword)": {},
+                        "polymer (keyword)": {},
+                        "polymerization (keyword)": {}
+                    },
+                    "biochemistry": {
+                        "chemical equation (keyword)": {},
+                        "ratio (keyword)": {},
+                        "self-assembled monolayer (keyword)": {},
+                        "microfluidics (keyword)": {},
+                        "chemical reaction (keyword)": {},
+                        "peptide (keyword)": {},
+                        "palm oil (keyword)": {},
+                        "protein (keyword)": {},
+                        "phosphate (keyword)": {},
+                        "methylation (keyword)": {},
+                        "concentration (keyword)": {},
+                        "amino acid (keyword)": {},
+                        "ligand (biochemistry) (keyword)": {},
+                        "binding site (keyword)": {},
+                        "glucose (keyword)": {},
+                        "mole fraction (keyword)": {},
+                        "mass concentration (chemistry) (keyword)": {},
+                        "molar concentration (keyword)": {},
+                        "chemical equilibrium (keyword)": {},
+                        "droplet-based microfluidics (keyword)": {},
+                        "enzyme inhibitor (keyword)": {},
+                        "chaperone (protein) (keyword)": {},
+                        "active site (keyword)": {},
+                        "stoichiometry (keyword)": {},
+                        "riboswitch (keyword)": {},
+                        "glycosyltransferase (keyword)": {},
+                        "single cell sequencing (keyword)": {},
+                        "healthy diet (keyword)": {},
+                        "protein tertiary structure (keyword)": {},
+                        "substrate (chemistry) (keyword)": {},
+                        "life (keyword)": {}
+                    },
+                    "physical organic chemistry": {
+                        "physical chemistry (keyword)": {},
+                        "partition coefficient (keyword)": {}
+                    }
+                },
+                "physical chemistry": {
+                    "surface science": {
+                        "adsorption (keyword)": {},
+                        "sorption (keyword)": {},
+                        "surface tension (keyword)": {},
+                        "surface (keyword)": {},
+                        "wetting (keyword)": {},
+                        "contact angle (keyword)": {},
+                        "capillary action (keyword)": {},
+                        "meniscus (liquid) (keyword)": {},
+                        "capillary pressure (keyword)": {},
+                        "surface energy (keyword)": {},
+                        "x-ray absorption spectroscopy (keyword)": {},
+                        "desorption (keyword)": {},
+                        "drop (liquid) (keyword)": {}
+                    },
+                    "chemical kinetics": {
+                        "mass balance (keyword)": {},
+                        "reaction rate (keyword)": {},
+                        "chemical kinetics (keyword)": {},
+                        "heterogeneous catalysis (keyword)": {},
+                        "transition state theory (keyword)": {},
+                        "reaction mechanism (keyword)": {},
+                        "reaction intermediate (keyword)": {},
+                        "activation energy (keyword)": {}
+                    },
+                    "photochemistry": {
+                        "quantum yield (keyword)": {},
+                        "green fluorescent protein (keyword)": {},
+                        "fluorescence (keyword)": {},
+                        "fluorescence microscope (keyword)": {},
+                        "fluorescence-lifetime imaging microscopy (keyword)": {},
+                        "photodynamic therapy (keyword)": {},
+                        "fluorescence spectroscopy (keyword)": {},
+                        "methylene blue (keyword)": {},
+                        "photochemistry (keyword)": {},
+                        "flow cytometry (keyword)": {},
+                        "fluorescence correlation spectroscopy (keyword)": {},
+                        "autofluorescence (keyword)": {},
+                        "photosensitizer (keyword)": {},
+                        "quenching (fluorescence) (keyword)": {},
+                        "fluorescein (keyword)": {},
+                        "fluorophore (keyword)": {},
+                        "laser-induced fluorescence (keyword)": {}
+                    },
+                    "stereochemistry": {
+                        "asymmetry (keyword)": {},
+                        "fischer projection (keyword)": {}
+                    },
+                    "electrochemistry": {
+                        "corrosion (keyword)": {},
+                        "photocatalysis (keyword)": {},
+                        "solid oxide fuel cell (keyword)": {},
+                        "anode (keyword)": {},
+                        "electrochemistry (keyword)": {},
+                        "colloid (keyword)": {},
+                        "activity coefficient (keyword)": {},
+                        "charge transfer coefficient (keyword)": {},
+                        "uninterruptible power supply (keyword)": {}
+                    },
+                    "femtochemistry": {
+                        "time-resolved spectroscopy (keyword)": {}
+                    },
+                    "quantum chemistry": {
+                        "electronic correlation (keyword)": {},
+                        "density functional theory (keyword)": {},
+                        "quantum chemistry (keyword)": {},
+                        "ab initio quantum chemistry methods (keyword)": {},
+                        "computational chemistry (keyword)": {}
+                    }
+                },
+                "analytical chemistry": {
+                    "general analytical chemistry": {
+                        "mass spectrometry (keyword)": {},
+                        "gas chromatography (keyword)": {},
+                        "analytical chemistry (keyword)": {},
+                        "inductively coupled plasma mass spectrometry (keyword)": {},
+                        "chromatography (keyword)": {},
+                        "secondary ion mass spectrometry (keyword)": {},
+                        "high-performance liquid chromatography (keyword)": {},
+                        "ionization (keyword)": {}
+                    }
+                },
+                "computational chemistry": {
+                    "general computational chemistry": {
+                        "periodic boundary conditions (keyword)": {},
+                        "molecular dynamics (keyword)": {},
+                        "lennard-jones potential (keyword)": {},
+                        "implicit solvation (keyword)": {},
+                        "protein design (keyword)": {}
+                    }
+                }
+            },
+            "astronomy": {
+                "planetary science": {
+                    "atmosphere": {
+                        "ice (keyword)": {},
+                        "internal wave (keyword)": {},
+                        "altitude (keyword)": {},
+                        "orbital resonance (keyword)": {},
+                        "solar system (keyword)": {},
+                        "atmospheric pressure (keyword)": {},
+                        "atmosphere of venus (keyword)": {},
+                        "wind wave (keyword)": {},
+                        "orbital period (keyword)": {},
+                        "tidal force (keyword)": {},
+                        "breaking wave (keyword)": {},
+                        "tidal locking (keyword)": {},
+                        "atmosphere (keyword)": {},
+                        "boussinesq approximation (water waves) (keyword)": {},
+                        "carbonaceous chondrite (keyword)": {},
+                        "meteorite (keyword)": {},
+                        "nebular hypothesis (keyword)": {},
+                        "oort cloud (keyword)": {},
+                        "atmospheric escape (keyword)": {},
+                        "asteroid belt (keyword)": {},
+                        "chondrite (keyword)": {},
+                        "iron–nickel alloy (keyword)": {},
+                        "comet (keyword)": {},
+                        "asteroid (keyword)": {},
+                        "volatiles (keyword)": {},
+                        "impact crater (keyword)": {},
+                        "ephemeris (keyword)": {},
+                        "moon (keyword)": {}
+                    }
+                },
+                "astronomical techniques": {
+                    "astronomical spectrometry": {
+                        "acoustic doppler current profiler (keyword)": {},
+                        "infrared spectroscopy (keyword)": {},
+                        "fourier-transform infrared spectroscopy (keyword)": {},
+                        "spectroscopy (keyword)": {},
+                        "fourier-transform spectroscopy (keyword)": {},
+                        "electron paramagnetic resonance (keyword)": {},
+                        "photon energy (keyword)": {},
+                        "hyperspectral imaging (keyword)": {},
+                        "light (keyword)": {},
+                        "electromagnetic radiation (keyword)": {},
+                        "particle image velocimetry (keyword)": {},
+                        "raman spectroscopy (keyword)": {},
+                        "auger electron spectroscopy (keyword)": {},
+                        "energy-dispersive x-ray spectroscopy (keyword)": {},
+                        "x-ray photoelectron spectroscopy (keyword)": {},
+                        "x-ray fluorescence (keyword)": {},
+                        "ultraviolet photoelectron spectroscopy (keyword)": {},
+                        "nuclear magnetic resonance spectroscopy (keyword)": {},
+                        "nuclear magnetic resonance (keyword)": {},
+                        "infrared (keyword)": {},
+                        "spectral line (keyword)": {},
+                        "spectrometer (keyword)": {},
+                        "ultraviolet–visible spectroscopy (keyword)": {},
+                        "doppler effect (keyword)": {}
+                    }
+                },
+                "astrophysics": {
+                    "physical cosmology": {
+                        "cold dark matter (keyword)": {},
+                        "observable universe (keyword)": {},
+                        "electroweak epoch (keyword)": {},
+                        "cosmic microwave background (keyword)": {},
+                        "dark matter (keyword)": {},
+                        "lambda-cdm model (keyword)": {}
+                    },
+                    "stellar astronomy": {
+                        "stellar kinematics (keyword)": {},
+                        "solar luminosity (keyword)": {},
+                        "proton–proton chain (keyword)": {},
+                        "luminosity (keyword)": {},
+                        "light-year (keyword)": {},
+                        "cno cycle (keyword)": {},
+                        "radiation pressure (keyword)": {},
+                        "afternoon (keyword)": {},
+                        "apparent magnitude (keyword)": {},
+                        "star formation (keyword)": {},
+                        "accretion disk (keyword)": {},
+                        "angular diameter (keyword)": {}
+                    }
+                },
+                "astrodynamics": {
+                    "orbital mechanics": {
+                        "escape velocity (keyword)": {}
+                    }
+                }
+            }
+        },
+        "social sciences": {
+            "political science": {
+                "political theory and philosophy": {
+                    "democracy": {
+                        "social stratification (keyword)": {},
+                        "consensus decision-making (keyword)": {},
+                        "people (keyword)": {},
+                        "social mobility (keyword)": {},
+                        "community (keyword)": {},
+                        "society (keyword)": {},
+                        "participatory planning (keyword)": {}
+                    },
+                    "postcolonialism": {
+                        "social exclusion (keyword)": {}
+                    }
+                },
+                "applied political science": {
+                    "geopolitics": {
+                        "population density (keyword)": {},
+                        "urban morphology (keyword)": {},
+                        "region (keyword)": {},
+                        "human settlement (keyword)": {},
+                        "nitric oxide (keyword)": {}
+                    },
+                    "comparative politics": {
+                        "debate (keyword)": {}
+                    },
+                    "international relations": {
+                        "globalization (keyword)": {},
+                        "trade (keyword)": {}
+                    },
+                    "political economy": {
+                        "socioeconomics (keyword)": {}
+                    }
+                }
+            },
+            "sociology": {
+                "applied sociology": {
+                    "environmental sociology": {
+                        "in situ (keyword)": {},
+                        "emergency management (keyword)": {},
+                        "anthropogenic hazard (keyword)": {}
+                    }
+                },
+                "sociological theories": {
+                    "critical theory": {
+                        "structuralism (keyword)": {}
+                    }
+                }
+            },
+            "anthropology": {
+                "branches of anthropology": {
+                    "ethnography": {
+                        "field research (keyword)": {},
+                        "interdisciplinarity (keyword)": {},
+                        "social science (keyword)": {},
+                        "case study (keyword)": {},
+                        "qualitative research (keyword)": {},
+                        "quantitative research (keyword)": {},
+                        "area studies (keyword)": {},
+                        "development studies (keyword)": {},
+                        "social relation (keyword)": {},
+                        "culture (keyword)": {},
+                        "transdisciplinarity (keyword)": {},
+                        "political sociology (keyword)": {},
+                        "social norm (keyword)": {},
+                        "value (ethics and social sciences) (keyword)": {}
+                    }
+                },
+                "archaeology": {
+                    "general archaeology": {
+                        "numerical modeling (geology) (keyword)": {},
+                        "isotopic labeling (keyword)": {}
+                    }
+                }
+            },
+            "economics": {
+                "applied economics": {
+                    "ecological economics": {
+                        "generation (keyword)": {},
+                        "resource (keyword)": {},
+                        "steady-state economy (keyword)": {},
+                        "material flow analysis (keyword)": {},
+                        "ecological footprint (keyword)": {},
+                        "urban metabolism (keyword)": {},
+                        "energy supply (keyword)": {}
+                    },
+                    "development economics": {
+                        "global north and global south (keyword)": {},
+                        "sustainable development goals (keyword)": {},
+                        "developing country (keyword)": {},
+                        "united nations development programme (keyword)": {}
+                    }
+                },
+                "economic theories and history": {
+                    "economic systems": {
+                        "laissez-faire (keyword)": {},
+                        "economic inequality (keyword)": {},
+                        "cooperative (keyword)": {}
+                    }
+                },
+                "general theoretical and empirical economics": {
+                    "mathematical economics": {
+                        "path dependence (keyword)": {},
+                        "economics (keyword)": {},
+                        "competition (keyword)": {},
+                        "game theory (keyword)": {},
+                        "demand (keyword)": {},
+                        "goods (keyword)": {},
+                        "economy (keyword)": {},
+                        "regulation (keyword)": {}
+                    }
+                }
+            },
+            "psychology": {
+                "basic psychology": {
+                    "developmental psychology": {
+                        "family (keyword)": {},
+                        "evolutionary psychology (keyword)": {},
+                        "child (keyword)": {},
+                        "intimate relationship (keyword)": {},
+                        "ecological systems theory (keyword)": {}
+                    },
+                    "positive psychology": {
+                        "infrastructure (keyword)": {},
+                        "capability approach (keyword)": {},
+                        "self-actualization (keyword)": {},
+                        "social behavior (keyword)": {},
+                        "psychological resilience (keyword)": {},
+                        "analytical psychology (keyword)": {}
+                    },
+                    "evolutionary psychology": {
+                        "cosmopolitan distribution (keyword)": {}
+                    },
+                    "social psychology": {
+                        "human behavior (keyword)": {},
+                        "field experiment (keyword)": {},
+                        "group dynamics (keyword)": {}
+                    },
+                    "psychometrics": {
+                        "evaluation (keyword)": {}
+                    },
+                    "experimental psychology": {
+                        "perception (keyword)": {},
+                        "psychophysics (keyword)": {}
+                    },
+                    "cognitive psychology": {
+                        "embodied cognition (keyword)": {}
+                    },
+                    "behavioral psychology": {
+                        "drug injection (keyword)": {}
+                    }
+                },
+                "applied psychology": {
+                    "industrial and organizational psychology": {
+                        "plan (keyword)": {},
+                        "management (keyword)": {},
+                        "motivation (keyword)": {},
+                        "organization (keyword)": {}
+                    },
+                    "applied behavior analysis": {
+                        "behavior (keyword)": {}
+                    },
+                    "clinical psychology": {
+                        "side effect (keyword)": {}
+                    }
+                }
+            },
+            "geography": {
+                "human geography": {
+                    "urban geography": {
+                        "smart city (keyword)": {},
+                        "urban green space (keyword)": {},
+                        "rural area (keyword)": {},
+                        "urban planner (keyword)": {},
+                        "built environment (keyword)": {},
+                        "public space (keyword)": {},
+                        "urban sociology (keyword)": {},
+                        "environmental planning (keyword)": {},
+                        "urban planning (keyword)": {},
+                        "urban design (keyword)": {},
+                        "sustainable city (keyword)": {},
+                        "city (keyword)": {},
+                        "urbanization (keyword)": {},
+                        "land-use planning (keyword)": {},
+                        "urban sprawl (keyword)": {},
+                        "urban area (keyword)": {},
+                        "spatial planning (keyword)": {},
+                        "urbanism (keyword)": {},
+                        "geographic mobility (keyword)": {},
+                        "sustainable urbanism (keyword)": {},
+                        "metropolitan area (keyword)": {}
+                    },
+                    "economic geography": {
+                        "degenerate matter (keyword)": {}
+                    }
+                }
+            },
+            "communication studies": {
+                "types of communication": {
+                    "mass communication": {
+                        "cultural diversity (keyword)": {},
+                        "interpersonal communication (keyword)": {},
+                        "communication (keyword)": {},
+                        "nonverbal communication (keyword)": {},
+                        "film (keyword)": {},
+                        "bias (keyword)": {}
+                    }
+                }
+            }
+        },
+        "humanities": {
+            "history": {
+                "modern era": {
+                    "late modern period": {
+                        "human rights (keyword)": {},
+                        "lake geneva (keyword)": {},
+                        "lake baikal (keyword)": {},
+                        "lake constance (keyword)": {},
+                        "geneva (keyword)": {},
+                        "cantons of switzerland (keyword)": {},
+                        "world population (keyword)": {},
+                        "population (keyword)": {},
+                        "demographic transition (keyword)": {},
+                        "switzerland (keyword)": {},
+                        "indigenous peoples (keyword)": {},
+                        "demography (keyword)": {},
+                        "neuchâtel (keyword)": {},
+                        "nazi concentration camps (keyword)": {},
+                        "france (keyword)": {},
+                        "european union (keyword)": {},
+                        "population growth (keyword)": {},
+                        "vietnam (keyword)": {},
+                        "corrosion inhibitor (keyword)": {},
+                        "friction (keyword)": {},
+                        "radar (keyword)": {},
+                        "swiss alps (keyword)": {},
+                        "alps (keyword)": {},
+                        "human overpopulation (keyword)": {},
+                        "developed country (keyword)": {},
+                        "edo period (keyword)": {},
+                        "artificial island (keyword)": {},
+                        "united states (keyword)": {},
+                        "carrying capacity (keyword)": {},
+                        "yellow river (keyword)": {},
+                        "territorial waters (keyword)": {},
+                        "midwestern united states (keyword)": {},
+                        "industrial revolution (keyword)": {},
+                        "siberia (keyword)": {},
+                        "baltic sea (keyword)": {},
+                        "central europe (keyword)": {},
+                        "grenoble (keyword)": {},
+                        "depleted uranium (keyword)": {},
+                        "czech republic (keyword)": {},
+                        "fly ash (keyword)": {},
+                        "concrete (keyword)": {},
+                        "mexico city (keyword)": {},
+                        "east asia (keyword)": {},
+                        "southeast asia (keyword)": {},
+                        "southeastern united states (keyword)": {},
+                        "ho chi minh city (keyword)": {},
+                        "cotton (keyword)": {},
+                        "cod (keyword)": {},
+                        "textile (keyword)": {},
+                        "south korea (keyword)": {}
+                    },
+                    "early modern period": {
+                        "lake garda (keyword)": {},
+                        "mineral water (keyword)": {},
+                        "western roman empire (keyword)": {},
+                        "lake kivu (keyword)": {},
+                        "rights (keyword)": {},
+                        "major (keyword)": {},
+                        "individual (keyword)": {},
+                        "mediterranean sea (keyword)": {},
+                        "atlantic ocean (keyword)": {},
+                        "indian ocean (keyword)": {},
+                        "search and rescue (keyword)": {},
+                        "mosaic (keyword)": {},
+                        "printing (keyword)": {},
+                        "digital printing (keyword)": {},
+                        "venice (keyword)": {},
+                        "western europe (keyword)": {},
+                        "europe (keyword)": {},
+                        "mediterranean basin (keyword)": {},
+                        "eastern europe (keyword)": {},
+                        "athens (keyword)": {},
+                        "continent (keyword)": {},
+                        "pacific ocean (keyword)": {},
+                        "red sea (keyword)": {},
+                        "galileo galilei (keyword)": {},
+                        "greenland (keyword)": {}
+                    }
+                },
+                "overview of history": {
+                    "general history": {
+                        "ritual (keyword)": {},
+                        "future (keyword)": {},
+                        "present (keyword)": {},
+                        "past (keyword)": {}
+                    }
+                },
+                "ancient history": {
+                    "prehistory": {
+                        "sheep (keyword)": {},
+                        "south africa (keyword)": {},
+                        "goat (keyword)": {},
+                        "animal husbandry (keyword)": {},
+                        "livestock (keyword)": {},
+                        "cattle (keyword)": {},
+                        "east africa (keyword)": {},
+                        "sub-saharan africa (keyword)": {},
+                        "fertile crescent (keyword)": {},
+                        "africa (keyword)": {},
+                        "west africa (keyword)": {},
+                        "burkina faso (keyword)": {},
+                        "democratic republic of the congo (keyword)": {},
+                        "gamma (keyword)": {},
+                        "tau (keyword)": {},
+                        "21st century (keyword)": {},
+                        "sigma (keyword)": {},
+                        "epsilon (keyword)": {},
+                        "history of agriculture (keyword)": {},
+                        "20th century (keyword)": {},
+                        "south asia (keyword)": {}
+                    }
+                },
+                "subfields of history": {
+                    "futures studies": {
+                        "global catastrophic risk (keyword)": {},
+                        "futures studies (keyword)": {},
+                        "societal collapse (keyword)": {},
+                        "scenario planning (keyword)": {}
+                    },
+                    "art history": {
+                        "social (keyword)": {}
+                    },
+                    "cultural history": {
+                        "robot operating system (keyword)": {},
+                        "monin–obukhov similarity theory (keyword)": {}
+                    },
+                    "history of science": {
+                        "alternative medicine (keyword)": {}
+                    }
+                },
+                "historical methodology": {
+                    "historiography": {
+                        "research (keyword)": {}
+                    }
+                }
+            },
+            "philosophy": {
+                "branches of philosophy": {
+                    "epistemology": {
+                        "scientific method (keyword)": {},
+                        "knowledge (keyword)": {},
+                        "science (keyword)": {},
+                        "experience (keyword)": {},
+                        "empirical evidence (keyword)": {},
+                        "reason (keyword)": {},
+                        "physicalism (keyword)": {},
+                        "theory (keyword)": {},
+                        "experimental data (keyword)": {},
+                        "thought experiment (keyword)": {},
+                        "methodology (keyword)": {},
+                        "nature (keyword)": {},
+                        "inference (keyword)": {},
+                        "natural science (keyword)": {},
+                        "reductionism (keyword)": {},
+                        "empiricism (keyword)": {},
+                        "operationalization (keyword)": {},
+                        "concept (keyword)": {}
+                    },
+                    "ethics": {
+                        "public policy (keyword)": {},
+                        "policy (keyword)": {},
+                        "deep ecology (keyword)": {},
+                        "in vivo (keyword)": {}
+                    },
+                    "philosophy of science": {
+                        "science and technology studies (keyword)": {}
+                    }
+                }
+            },
+            "law": {
+                "branches of law": {
+                    "copyright law": {
+                        "innovation (keyword)": {},
+                        "technology (keyword)": {},
+                        "emerging technologies (keyword)": {},
+                        "problem solving (keyword)": {},
+                        "creative commons license (keyword)": {},
+                        "mergers and acquisitions (keyword)": {},
+                        "invention (keyword)": {}
+                    }
+                },
+                "legal systems": {
+                    "civil law": {
+                        "citizenship (keyword)": {}
+                    },
+                    "common law": {
+                        "law (keyword)": {},
+                        "property (keyword)": {}
+                    }
+                }
+            },
+            "art": {
+                "visual arts": {
+                    "painting": {
+                        "landscape painting (keyword)": {},
+                        "aesthetics (keyword)": {},
+                        "visible spectrum (keyword)": {},
+                        "graphic design (keyword)": {},
+                        "complementary colors (keyword)": {}
+                    },
+                    "drawing": {
+                        "cross section (geometry) (keyword)": {}
+                    }
+                },
+                "performing arts": {
+                    "music": {
+                        "musical instrument (keyword)": {}
+                    }
+                }
+            },
+            "literature": {
+                "literary theory and criticism": {
+                    "literary criticism": {
+                        "literature (keyword)": {},
+                        "description (keyword)": {}
+                    }
+                }
+            },
+            "religion": {
+                "belief systems": {
+                    "abrahamic religions": {
+                        "köppen climate classification (keyword)": {},
+                        "port-au-prince (keyword)": {},
+                        "proton holdings (keyword)": {},
+                        "oceanic climate (keyword)": {},
+                        "haiti (keyword)": {},
+                        "desert climate (keyword)": {},
+                        "north america (keyword)": {},
+                        "temperate climate (keyword)": {},
+                        "mexico (keyword)": {},
+                        "mediterranean climate (keyword)": {}
+                    }
+                }
+            }
+        },
+        "formal sciences": {
+            "mathematics": {
+                "analysis": {
+                    "differential anaysis": {
+                        "differential equation (keyword)": {},
+                        "stochastic differential equation (keyword)": {},
+                        "wave equation (keyword)": {}
+                    },
+                    "calculus": {
+                        "pattern (keyword)": {},
+                        "slope (keyword)": {},
+                        "volume (keyword)": {},
+                        "derivative (keyword)": {},
+                        "integral (keyword)": {}
+                    },
+                    "vector analysis": {
+                        "scalar field (keyword)": {}
+                    },
+                    "numerical analysis": {
+                        "numerical analysis (keyword)": {},
+                        "monte carlo method (keyword)": {},
+                        "multigrid method (keyword)": {},
+                        "markov chain monte carlo (keyword)": {}
+                    },
+                    "tensor analysis": {
+                        "continuum mechanics (keyword)": {},
+                        "constitutive equation (keyword)": {},
+                        "dielectric spectroscopy (keyword)": {},
+                        "dielectric (keyword)": {},
+                        "permittivity (keyword)": {}
+                    }
+                },
+                "algebra": {
+                    "abstract algebra": {
+                        "number (keyword)": {},
+                        "calculation (keyword)": {},
+                        "manifold (keyword)": {},
+                        "equation (keyword)": {},
+                        "addition (keyword)": {}
+                    },
+                    "linear algebra": {
+                        "matrix (mathematics) (keyword)": {},
+                        "determinant (keyword)": {}
+                    }
+                },
+                "geometry": {
+                    "euclidean geometry": {
+                        "dimension (keyword)": {},
+                        "area (keyword)": {},
+                        "three-dimensional space (keyword)": {},
+                        "parametrization (geometry) (keyword)": {},
+                        "coordinate system (keyword)": {},
+                        "geometry (keyword)": {},
+                        "surface area (keyword)": {}
+                    },
+                    "differential geometry": {
+                        "curvature (keyword)": {}
+                    }
+                },
+                "discrete mathematics": {
+                    "discrete exterior calculus": {
+                        "finite element method (keyword)": {},
+                        "immersed boundary method (keyword)": {}
+                    },
+                    "combinatorics": {
+                        "combination (keyword)": {},
+                        "mathematical model (keyword)": {}
+                    },
+                    "graph theory": {
+                        "graph theory (keyword)": {},
+                        "graph drawing (keyword)": {},
+                        "discrete mathematics (keyword)": {},
+                        "random graph (keyword)": {},
+                        "social network analysis (keyword)": {},
+                        "preferential attachment (keyword)": {}
+                    }
+                },
+                "topology": {
+                    "general topology": {
+                        "sequence (keyword)": {},
+                        "function (mathematics) (keyword)": {}
+                    }
+                },
+                "mathematical logic": {
+                    "algebraic logic": {
+                        "van der waals force (keyword)": {}
+                    }
+                }
+            },
+            "statistics": {
+                "data collection": {
+                    "experiment": {
+                        "observation (keyword)": {},
+                        "experiment (keyword)": {},
+                        "observational study (keyword)": {},
+                        "homogeneity and heterogeneity (keyword)": {},
+                        "clinical trial (keyword)": {},
+                        "empirical research (keyword)": {}
+                    },
+                    "statistical sampling": {
+                        "census (keyword)": {}
+                    },
+                    "opinion poll": {
+                        "magnetite (keyword)": {},
+                        "iron meteorite (keyword)": {}
+                    }
+                },
+                "descriptive statistics": {
+                    "probability distributions": {
+                        "parameter (keyword)": {},
+                        "normal distribution (keyword)": {},
+                        "probability (keyword)": {},
+                        "statistics (keyword)": {},
+                        "maximum likelihood estimation (keyword)": {},
+                        "multivariate statistics (keyword)": {},
+                        "observational error (keyword)": {},
+                        "power law (keyword)": {},
+                        "standard deviation (keyword)": {},
+                        "confidence interval (keyword)": {},
+                        "parameter space (keyword)": {},
+                        "robust statistics (keyword)": {},
+                        "m-estimator (keyword)": {},
+                        "average (keyword)": {},
+                        "poisson distribution (keyword)": {},
+                        "poisson point process (keyword)": {},
+                        "multivariate normal distribution (keyword)": {},
+                        "estimator (keyword)": {},
+                        "cramér–rao bound (keyword)": {}
+                    }
+                },
+                "statistical inference": {
+                    "decision theory": {
+                        "decision-making (keyword)": {}
+                    },
+                    "statistical hypothesis testing": {
+                        "statistical significance (keyword)": {}
+                    },
+                    "bayesian inference": {
+                        "statistical model (keyword)": {},
+                        "measurement uncertainty (keyword)": {},
+                        "sensitivity analysis (keyword)": {},
+                        "uncertainty (keyword)": {},
+                        "statistical inference (keyword)": {},
+                        "bayesian inference (keyword)": {}
+                    }
+                },
+                "data analysis": {
+                    "regression analysis": {
+                        "correlation (keyword)": {},
+                        "prediction (keyword)": {},
+                        "forecasting (keyword)": {},
+                        "pearson correlation coefficient (keyword)": {},
+                        "logistic regression (keyword)": {}
+                    },
+                    "time series": {
+                        "time series (keyword)": {},
+                        "cross-correlation (keyword)": {},
+                        "change detection (keyword)": {},
+                        "spectral density (keyword)": {},
+                        "autocorrelation (keyword)": {}
+                    }
+                }
+            },
+            "theoretical computer science": {
+                "theory of computation": {
+                    "computability theory": {
+                        "computer science (keyword)": {},
+                        "algorithm (keyword)": {}
+                    },
+                    "computational complexity theory": {
+                        "time complexity (keyword)": {}
+                    },
+                    "quantum computing": {
+                        "quantum computing (keyword)": {}
+                    }
+                },
+                "programming language theory and formal methods": {
+                    "programming languages": {
+                        ".net framework (keyword)": {},
+                        "implementation (keyword)": {},
+                        "python (programming language) (keyword)": {}
+                    },
+                    "formal languages": {
+                        "regular expression (keyword)": {}
+                    }
+                },
+                "algorithms and data structures": {
+                    "combinatorial optimization": {
+                        "mathematical optimization (keyword)": {}
+                    },
+                    "data structures": {
+                        "data structure (keyword)": {}
+                    }
+                }
+            }
+        }
+    }
+}
