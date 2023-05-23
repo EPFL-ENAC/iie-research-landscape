@@ -32,7 +32,6 @@ with open(output_file_path, "w") as output_file:
     json.dump(data, output_file, indent=4, ensure_ascii=False)
 
 
-
 # Teaching data ################################################################
 
 input_file_path = "../data/scrapped/epfl_graph/lab_keyword_teaching.csv"
