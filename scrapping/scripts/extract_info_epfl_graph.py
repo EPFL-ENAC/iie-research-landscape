@@ -1,6 +1,5 @@
-import json
 import csv
-
+import json
 
 # Research data ################################################################
 

@@ -2,7 +2,6 @@ import csv
 import json
 import os
 
-
 input_files = [
     "../data/extracted/epfl_graph.json",
     "../data/extracted/epfl_graph_teaching.json",
