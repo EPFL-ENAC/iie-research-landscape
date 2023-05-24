@@ -1,36 +1,22 @@
 import csv
 import json
-
-# import openai
-
-# openai.api_key  = os.getenv("OPENAI_API_KEY")
-
-# From https://learn.deeplearning.ai/chatgpt-prompt-eng/
-# def get_completion(prompt, model="gpt-3.5-turbo"):
-#     messages = [{"role": "user", "content": prompt}]
-#     response = openai.ChatCompletion.create(
-#         model=model,
-#         messages=messages,
-#         temperature=0, # this is the degree of randomness of the model's output
-#     )
-#     return response.choices[0].message["content"]
+import os
 
 
-def create_prompt(categories, keyword):
+def create_prompt(categories, keywords):
     prompt = f"""Here is a list of categories, delimited triple backticks and separated by semi-colons:
 ```
 {" ; ".join(categories)}
 ```
 
-{create_short_prompt(keyword)}"""
+Here is a list of keywords, delimited triple backticks and separated by semi-colons:
+```
+{" ; ".join(keywords)}
+```
 
-    return prompt
-
-
-def create_short_prompt(keyword):
-    prompt = f"""Find the category from the list that best fit the keyword ```{keyword}```.
-Only use full and precise category names. Do not make up new categories.
-Give your answer as a single category in lowercase and delimited by tripple backticks."""
+Classify each keyword into the best fitting category, chosen from the list of categories.
+Don't truncate category names. Don't invent new categories. Don't use another keyword as a category.
+Give your answer formatted in JSON, where each key is a keyword and each value is the corresponding category."""
 
     return prompt
 
@@ -63,26 +49,17 @@ with open("../data/scrapped/epfl_graph/keyword_category.csv", "r") as f:
         keywords.append(row[0].lower())
 
 
-# Generate prompts and answers
-# keyword_category = {}
+# Generate prompts
+n_keywords_per_prompt = 100
+prompt_output_dir = "../data/prompts/snf_epfl_graph"
+os.makedirs(prompt_output_dir, exist_ok=True)
 
-# for i in range(len(keywords)):
-#     keyword = keywords[i]
-
-#     prompt = create_prompt(categories, keyword)
-#     response = None
-#     while not response:
-#         try:
-#             response = get_completion(prompt)
-#         except:
-#             pass
-
-#     # Isolate category from response
-#     start_index = response.find("```") + 3
-#     end_index = response.find("```", start_index)
-#     category = response[start_index:end_index]
-#     print(f'"({i}){keyword}": "{category}",')
-#     keyword_category[keyword] = category
+for i in range(0, len(keywords), n_keywords_per_prompt):
+    prompt = create_prompt(categories, keywords[i : i + n_keywords_per_prompt])
+    filename = f"prompt_{i}-{i+n_keywords_per_prompt}.txt"
+    file_path = os.path.join(prompt_output_dir, filename)
+    with open(file_path, "w") as f:
+        f.write(prompt)
 
 
 # Check json answer (saved manually)
@@ -115,3 +92,10 @@ if answer:
             print(f'invalid category ({i+1}): "{answer[keyword]}" for keyword "{keyword}"')
             wrong_keywords.append(keyword)
             continue
+
+    # Generate prompt for wrong keywords
+    prompt = create_prompt(categories, wrong_keywords)
+    filename = "prompt_wrong_keywords.txt"
+    file_path = os.path.join(prompt_output_dir, filename)
+    with open(file_path, "w") as f:
+        f.write(prompt)
