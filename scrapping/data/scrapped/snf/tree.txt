@@ -1,30 +1,39 @@
 Human and Social Sciences
   Theology & religious studies, history, classical studies, archaeology, prehistory and early history
-    Religious studies, Theology
+    Religious studies
+	Theology
     Ecclesiastical history
-    General history (without pre-and early history)
+    General history
     Swiss history
-    Ancient history and Classical studies
+    Ancient history
+	Classical studies
     Prehistory
     Archaeology
   Linguistics and literature, philosophy
     Philosophy
-    German and English languages and literature
+    German language and literature
+    English language and literature
     Romance languages and literature
     Other languages and literature
     Applied linguistics
   Art studies, musicology, theatre and film studies, architecture
-    Visual arts and Art history
+    Visual arts
+	Art history
     Musicology
-    Theatre and Cinema
-    Architecture and Social urban science
+	Cinema
+    Architecture
+	Social urban science
     Arts
-    Music, Theatre
+    Music
+	Theatre
   Ethnology, social and human geography
-    Social geography and ecology
+    Social geography
+	Social ecology
     Ethnology
   Psychology, educational studies
-    Education and learning sciences, subject-specific education
+    Education
+	Learning sciences
+	Subject-specific education
     Psychology
     Applied psychology
   Sociology, social work, political sciences, media and communication studies, health
@@ -41,7 +50,9 @@ Mathematics, Naturaland Engineering Sciences
   Mathematics
     Mathematics
   Astronomy, Astrophysiscs and Space Science
-    Astronomy, Astrophysics and Space Sciences
+    Astronomy
+	AstrophysicsS
+	Space Sciences
   Chemistry
     Physical Chemistry
     Inorganic Chemistry
@@ -62,7 +73,8 @@ Mathematics, Naturaland Engineering Sciences
     Material Sciences
     Information Technology
     Chemical Engineering
-    Microelectronics, Optoelectronics
+    Microelectronics
+	Optoelectronics
     Agricultural Engineering
     Forest Engineering
     Other disciplines of Engineering Sciences
@@ -70,8 +82,12 @@ Mathematics, Naturaland Engineering Sciences
     Pedology
     Geomorphology
     Meteorology
-    Climatology, Atmospherical Chemistry, Aeronomoy
-    Hydrology, Limnology, Glaciology
+    Climatology
+	Atmospherical Chemistry
+	Aeronomy
+    Hydrology
+	Limnology
+	Glaciology
     Oceanography
     Other disciplines of Environmental Sciences
   Earth Sciences
@@ -86,34 +102,42 @@ Biology and Medicine
   Basic Biological Research
     Biochemistry
     Molecular Biology
-    Cellular Biology, Cytology
+    Cellular Biology
+	Cytology
     Genetics
-    Embryology, Developmental Biology
+    Embryology
+	Developmental Biology
     Radiobiology
     Experimental Microbiology
     Biophysics
   General Biology
     Botany
     Zoology
-    Paleontology (biol.)
-    Anthropology, Primatology
-    Agricultural and Forestry Sciences
+    Paleontology
+    Anthropology
+	Primatology
+    Agricultural
+	Forestry Sciences
     Environmental Research
     Ecology
     Animal Breeding
   Basic Medical Sciences
     Structural Research
-    Neurophysiology and Brain Research
+    Neurophysiology
+	Brain Research
     Cardiovascular Research
     Endocrinology
-    Physiology: other topics
-    Pharmacology, Pharmacy
+    Other topics of Physiology
+    Pharmacology
+	Pharmacy
     Medical Microbiology
   Experimental Medicine
     Experimental Cancer Research
     Pathophysiology
-    Immunology, Immunopathology
-    Nutritional Research, Vitaminology
+    Immunology
+	Immunopathology
+    Nutritional Research
+	Vitaminology
     Ethology
   Clinical Medicine
     Internal Medicine
@@ -123,7 +147,8 @@ Biology and Medicine
     Dermatology
     Gynaecology
     Paediatrics
-    Neurology, Psychiatry
+    Neurology
+	Psychiatry
     Otorhinolaryngology
     Ophthalmology
     Dentistry
@@ -133,13 +158,15 @@ Biology and Medicine
     Clinical Cardiovascular Research
     Clinical Endocrinology
     Clinical Pathophysiology
-    Clinical Immunology and Immunopathology
+    Clinical Immunology
+	Immunopathology
     Clinical Nutritional Research
     Geriatrics
     Sport Medicine
   Preventive Medicine (Epidemiology/Early Diagnosis/Prevention)
     Congenital Disorders
-    Mental Disorders, Psychosomatic Diseases
+    Mental Disorders
+	Psychosomatic Diseases
     Addictive Diseases
     Accidents
     Cancer
@@ -149,7 +176,8 @@ Biology and Medicine
     Diseases of Bones and Joints
     Oral Preventive Medicine
     Respiratory Diseases
-    Methods of Epidemiology and Preventive Medicine
+    Methods of Epidemiology
+	Preventive Medicine
   Social Medicine
     Group Medicine
     Social Paediatrics
@@ -159,7 +187,9 @@ Biology and Medicine
     Human Ecology
     Environmental Toxicology
     Dietetics
-    Occupational Medicine, Ergonomy
+    Occupational Medicine
+	Ergonomy
     Health Education
-    Public Health and Health Services
+    Public Health
+	Health Services
     Medical Statistics
