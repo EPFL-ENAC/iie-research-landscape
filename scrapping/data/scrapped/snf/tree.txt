@@ -62,7 +62,7 @@ Mathematics, Naturaland Engineering Sciences
     Material Sciences
     Information Technology
     Chemical Engineering
-    Microelectronics. Optoelectronics
+    Microelectronics, Optoelectronics
     Agricultural Engineering
     Forest Engineering
     Other disciplines of Engineering Sciences
@@ -70,7 +70,7 @@ Mathematics, Naturaland Engineering Sciences
     Pedology
     Geomorphology
     Meteorology
-    Climatology. Atmospherical Chemistry, Aeronomoy
+    Climatology, Atmospherical Chemistry, Aeronomoy
     Hydrology, Limnology, Glaciology
     Oceanography
     Other disciplines of Environmental Sciences

@@ -91,3 +91,10 @@ This will generate `data/all_sources.json`.
 Use `scripts/scrap_epfl_graph_keywords_categories.sql` to extract _keyword -- parent category_ and _category -- parent category_ pairs, saved into `data/scrapped/epfl_graph/` in `keyword_category.csv` and `category_category.csv`.
 
 Then, run `scripts/generate_keyword_groups_epfl_graph.py`.
+
+
+## SNF Research domains and disciplines
+
+Categories taken from [Swiss National Science Foundation](https://www.snf.ch/SiteCollectionDocuments/allg_disziplinenliste.pdf) and copied in `data/scrapped/snf/tree.txt`.
+
+Use `scripts/classify_keywords_chatgpt.py` to generate prompts (saved in `data/prompts/snf_epfl_graph`) for classifying EPFL Graph keywords into SNF categories. Save answers in `data/keyword_groups/snf/keyword_category.json`.
