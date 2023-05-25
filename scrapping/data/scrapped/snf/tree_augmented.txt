@@ -1,39 +1,54 @@
 Human and Social Sciences
   Theology & religious studies, history, classical studies, archaeology, prehistory and early history
     Religious studies
-	Theology
+    Theology
     Ecclesiastical history
+	History
     General history
     Swiss history
     Ancient history
-	Classical studies
+    Classical studies
     Prehistory
     Archaeology
   Linguistics and literature, philosophy
+    Linguistics
+	Literature
     Philosophy
+	Language and literature
     German language and literature
     English language and literature
     Romance languages and literature
     Other languages and literature
     Applied linguistics
   Art studies, musicology, theatre and film studies, architecture
+    Entertainment
+    Photography
+    Urban planning
     Visual arts
-	Art history
+    Art history
     Musicology
-	Cinema
+    Cinema
     Architecture
-	Social urban science
+	Social sciences
+	Demography
+	Urban science
+    Social urban science
+	Tourism
     Arts
     Music
-	Theatre
+    Theatre
   Ethnology, social and human geography
+    Cartography
+    Ethics
+    Geography
+	Navigation
     Social geography
-	Social ecology
+    Social ecology
     Ethnology
   Psychology, educational studies
     Education
-	Learning sciences
-	Subject-specific education
+    Learning sciences
+    Subject-specific education
     Psychology
     Applied psychology
   Sociology, social work, political sciences, media and communication studies, health
@@ -43,21 +58,39 @@ Human and Social Sciences
     Social work
     Health
   Economics, law
+    Risk Management
+	Risk Assessment
+    Law
     Economics
+	International development
+	Business
     Science of management
+    Management
     Legal sciences
 Mathematics, Naturaland Engineering Sciences
   Mathematics
+    Network science
+    Statistics
+	Measurement
     Mathematics
   Astronomy, Astrophysiscs and Space Science
+    Cosmology
+    Planetary Science
     Astronomy
-	Astrophysics
-	Space Sciences
+    Astrophysics
+    Space Sciences
   Chemistry
+    Analytical Chemistry
     Physical Chemistry
     Inorganic Chemistry
     Organic Chemistry
   Physics
+    Metrology
+	Quantum Mechanics
+    Optics
+	Atomic Physics
+    Quantum Chemistry
+    Energy
     Theoretical Physics
     Nuclear Physics
     Particle Physics
@@ -66,6 +99,25 @@ Mathematics, Naturaland Engineering Sciences
     Plasma Physics
     Other disciplines of Physics
   Engineering Sciences
+    Nanotechnology
+	Research
+	Publishing
+	Technology
+    Transportation
+    Human-Computer Interaction
+	Computer Graphics
+    Geotechnical Engineering
+    Aerospace Engineering
+    Telecommunications
+    Electronics
+    Research Methodology
+    Computer Vision
+    Informatics
+    Microscopy
+    Materials Science
+    Computer Science
+    Engineering
+    Remote Sensing
     Civil Engineering
     Mechanical Engineering
     Fluid Dynamics
@@ -74,24 +126,32 @@ Mathematics, Naturaland Engineering Sciences
     Information Technology
     Chemical Engineering
     Microelectronics
-	Optoelectronics
+    Optoelectronics
     Agricultural Engineering
     Forest Engineering
     Other disciplines of Engineering Sciences
   Environmental Sciences
+    Athmospheric Sciences
     Pedology
     Geomorphology
     Meteorology
     Climatology
-	Atmospherical Chemistry
-	Aeronomy
+	Climate Science
+    Atmospherical Chemistry
+	Atmospheric Sciences
+    Aeronomy
     Hydrology
-	Limnology
-	Glaciology
+    Limnology
+    Glaciology
     Oceanography
+	Environmental Science
     Other disciplines of Environmental Sciences
   Earth Sciences
+    Geomatics
+    Coastal processes
+    Geodesy
     Geology
+	Hydrogeology
     Geophysics
     Geochemistry
     Geochronology
@@ -100,44 +160,62 @@ Mathematics, Naturaland Engineering Sciences
     Other disciplines of Earth Sciences
 Biology and Medicine
   Basic Biological Research
+    Genomics
+    Proteomics
+    Cell biology
+    Biotechnology
+    Microbiology
     Biochemistry
     Molecular Biology
     Cellular Biology
-	Cytology
+    Cytology
     Genetics
     Embryology
-	Developmental Biology
+    Developmental Biology
     Radiobiology
     Experimental Microbiology
     Biophysics
   General Biology
+    Marine Biology
+    Biology
     Botany
+	Plant physiology
     Zoology
     Paleontology
     Anthropology
-	Primatology
+    Primatology
     Agricultural Sciences
-	Forestry Sciences
+    Forestry Sciences
     Environmental Research
     Ecology
     Animal Breeding
   Basic Medical Sciences
+    Medical history
+    Forensic Science
+    Sports Medicine
+    Neuroscience
+    Medical Sciences
+    Physiology
+    Anatomy
+    Nutrition
     Structural Research
     Neurophysiology
-	Brain Research
+    Brain Research
     Cardiovascular Research
     Endocrinology
     Other topics of Physiology
     Pharmacology
-	Pharmacy
+    Pharmacy
     Medical Microbiology
   Experimental Medicine
+    Medical imaging
+    Medicine
     Experimental Cancer Research
     Pathophysiology
     Immunology
-	Immunopathology
+    Immunopathology
     Nutritional Research
-	Vitaminology
+    Vitaminology
     Ethology
   Clinical Medicine
     Internal Medicine
@@ -148,7 +226,7 @@ Biology and Medicine
     Gynaecology
     Paediatrics
     Neurology
-	Psychiatry
+    Psychiatry
     Otorhinolaryngology
     Ophthalmology
     Dentistry
@@ -159,14 +237,15 @@ Biology and Medicine
     Clinical Endocrinology
     Clinical Pathophysiology
     Clinical Immunology
-	Immunopathology
+    Immunopathology
     Clinical Nutritional Research
     Geriatrics
     Sport Medicine
   Preventive Medicine (Epidemiology/Early Diagnosis/Prevention)
+    Epidemiology
     Congenital Disorders
     Mental Disorders
-	Psychosomatic Diseases
+    Psychosomatic Diseases
     Addictive Diseases
     Accidents
     Cancer
@@ -177,7 +256,7 @@ Biology and Medicine
     Oral Preventive Medicine
     Respiratory Diseases
     Methods of Epidemiology
-	Preventive Medicine
+    Preventive Medicine
   Social Medicine
     Group Medicine
     Social Paediatrics
@@ -188,8 +267,8 @@ Biology and Medicine
     Environmental Toxicology
     Dietetics
     Occupational Medicine
-	Ergonomy
+    Ergonomy
     Health Education
     Public Health
-	Health Services
+    Health Services
     Medical Statistics

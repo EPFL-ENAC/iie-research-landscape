@@ -97,4 +97,4 @@ Then, run `scripts/generate_keyword_groups_epfl_graph.py`.
 
 Categories taken from [Swiss National Science Foundation](https://www.snf.ch/SiteCollectionDocuments/allg_disziplinenliste.pdf) and copied in `data/scrapped/snf/tree.txt`.
 
-Use `scripts/classify_keywords_chatgpt.py` to generate prompts (saved in `data/prompts/snf_epfl_graph`) for classifying EPFL Graph keywords into SNF categories. Save answers in `data/keyword_groups/snf/keyword_category.json`.
+Use `scripts/classify_keywords_chatgpt.py` to generate prompts (saved in `data/prompts/snf_epfl_graph`) for classifying EPFL Graph keywords into SNF categories. Save answers in `data/keyword_groups/snf/keyword_category.json` and update `data/scrapped/snf/tree.txt` into `data/scrapped/snf/tree_augmented.txt` with categories hallucinated by ChatGPT.

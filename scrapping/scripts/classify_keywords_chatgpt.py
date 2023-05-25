@@ -6,12 +6,12 @@ import os
 def create_prompt(categories, keywords):
     prompt = f"""Here is a list of categories, delimited triple backticks and separated by semi-colons:
 ```
-{" ; ".join(categories)}
+{";".join(categories)}
 ```
 
 Here is a list of keywords, delimited triple backticks and separated by semi-colons:
 ```
-{" ; ".join(keywords)}
+{";".join(keywords)}
 ```
 
 Classify each keyword into the best fitting category, chosen from the list of categories.
@@ -25,15 +25,17 @@ Give your answer formatted in JSON, where each key is a keyword and each value i
 
 
 # Load categories from snf
+all_categories = []
 categories = []
 
-with open("../data/scrapped/snf/tree.txt", "r") as f:
+with open("../data/scrapped/snf/tree_augmented.txt", "r") as f:
     # Read file line by line
     for line in f:
         # Find current level (indented by 2 spaces)
         level = int((len(line) - len(line.lstrip())) / 2)
         line = line.strip().lower()
 
+        all_categories.append(line)
         if level == 2:
             categories.append(line)
 
@@ -73,6 +75,7 @@ except Exception as e:
 
 if answer:
     wrong_keywords = []
+    wrong_categories = set()
 
     # Check that all keywords are in the answer keys
     for i in range(0, len(keywords)):
@@ -87,15 +90,25 @@ if answer:
             wrong_keywords.append(keyword)
             continue
 
+        category = answer[keyword]
+
         # Check that category exists
-        if answer[keyword] not in categories:
-            print(f'invalid category ({i+1}): "{answer[keyword]}" for keyword "{keyword}"')
+        if category not in all_categories:
+            print(f'invalid category ({i+1}): "{category}" for keyword "{keyword}"')
             wrong_keywords.append(keyword)
+            wrong_categories.add(category)
             continue
 
     # Generate prompt for wrong keywords
     prompt = create_prompt(categories, wrong_keywords)
     filename = "prompt_wrong_keywords.txt"
+    file_path = os.path.join(prompt_output_dir, filename)
+    with open(file_path, "w") as f:
+        f.write(prompt)
+
+    # Generate prompt for wrong categories
+    prompt = create_prompt(categories, wrong_categories)
+    filename = "prompt_wrong_categories.txt"
     file_path = os.path.join(prompt_output_dir, filename)
     with open(file_path, "w") as f:
         f.write(prompt)
