@@ -13,6 +13,8 @@ python3 scrap_research_collection.py
 ```
 to download all IFU entries in `csv` format in `data/scrapped/research_collection/`. Modify the dates of entries to fetch if necessary (can have the format `2023-05`). Only 500 entries at a time can be retrieved.
 
+We count the __number of occurrences__ of each keyword for every publication of current labs.
+
 
 # 🧹 Extracting relevant data
 

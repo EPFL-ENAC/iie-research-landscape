@@ -38,8 +38,6 @@ The _score_ relating a keyword to a lab is a metric of __how much the lab has pu
 
 Use `scripts/scrap_epfl_graph_teaching.sql`. Data is extracted from the `Edges_N_Person_N_Concept_T_TeachingAuto` database. It is filtered by profs' SCIPERS for current labs (see `data/iie_labs.csv` for the list of profs).
 
-We count the __number of occurrences__ of each keyword for every publication of current labs.
-
 
 ## Infoscience
 
@@ -48,6 +46,8 @@ From `scripts`, run
 python3 scrap_infoscience.py
 ```
 to download all IIE entries in `xml` format in `data/scrapped/infoscience/`. Modify the number of entries to fetch if necessary. Only 1000 entries at a time can be retrieved.
+
+We count the __number of occurrences__ of each keyword for every publication of current labs.
 
 
 ## Google Scholar
