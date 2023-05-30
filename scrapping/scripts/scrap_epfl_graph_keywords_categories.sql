@@ -20,9 +20,9 @@ WITH RECURSIVE filtered_categories AS (
 	JOIN Edges_N_Category_N_Concept_T_Original concept USING (PageID)
 	JOIN Edges_N_Category_N_Category category_edge on concept.CategoryID = category_edge.ChildCategoryID
 	WHERE unit.UnitPath LIKE '%> IIE%'
-	
+
 	UNION ALL
-	
+
 	SELECT category_edge.ChildCategoryID, category_edge.ParentCategoryID
 	FROM Edges_N_Category_N_Category category_edge
 	JOIN filtered_categories ON filtered_categories.ParentCategoryID = category_edge.ChildCategoryID

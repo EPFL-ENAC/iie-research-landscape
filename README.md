@@ -1,15 +1,21 @@
-# iie-research-landscape
+# IIE Research Landscape Analysis
 
-Template with licences / github templates and contributing processes
+## Setup development environment
 
-# Todo when setting up your github repo
+Dependencies:
+- Python (3.8 minimum)
+- make
+- [Poetry](https://python-poetry.org/docs/#installation)
 
-- [ ] Learn how to use github template repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
-- [ ] Activate discussion (https://github.com/EPFL-ENAC/iie-research-landscape/settings)
-- [ ] Replace `iie-research-landscape` by the name of your repo
-- [ ] Modifiy or remove the `CITATION.cff` file. [How to format it ?](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) 
-- [ ] Check if you need all those labels: https://github.com/EPFL-ENAC/iie-research-landscape/labels
-- [ ] Create your first milestone: https://github.com/EPFL-ENAC/iie-research-landscape/milestones
-- [ ] Protect your branch if you're a pro user: https://github.com/EPFL-ENAC/iie-research-landscape/settings/branches
-
-
+Run
+```
+make install
+```
+Then, load the virtual environment using
+```
+poetry shell
+```
+Alternatively, you can prefix all the python commands with
+```
+poetry run ...
+```

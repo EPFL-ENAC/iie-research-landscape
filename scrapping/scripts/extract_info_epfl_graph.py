@@ -1,6 +1,5 @@
-import json
 import csv
-
+import json
 
 # Research data ################################################################
 
@@ -30,7 +29,6 @@ for lab_data in input_data:
 # Save data
 with open(output_file_path, "w") as output_file:
     json.dump(data, output_file, indent=4, ensure_ascii=False)
-
 
 
 # Teaching data ################################################################

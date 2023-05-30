@@ -1,7 +1,6 @@
-import os
 import csv
 import json
-
+import os
 
 input_dir = "../data/scrapped/epfl_graph"
 input_file_names = ["keyword_category.csv", "category_category.csv"]
