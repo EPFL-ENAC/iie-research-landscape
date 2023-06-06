@@ -1,10 +1,16 @@
-# Find unique keywords (concepts) and parent categories
+# Find unique keywords (concepts) and parent categories (~2500)
 SELECT DISTINCT concept.PageTitle, category.CategoryName
 FROM Edges_N_Unit_N_Concept_T_Research edge
 JOIN Nodes_N_Unit unit USING (UnitID) # For filtering
 JOIN Edges_N_Category_N_Concept_T_Original concept USING (PageID)
 JOIN Nodes_N_Category category USING (CategoryID)
 WHERE unit.UnitPath LIKE '%> IIE%';
+
+
+# Same but unfiltered (~26000)
+SELECT DISTINCT concept.PageTitle, category.CategoryName
+FROM Edges_N_Category_N_Concept_T_Original concept
+JOIN Nodes_N_Category category USING (CategoryID);
 
 
 # List all categories (filtered in IIE) and their parents
