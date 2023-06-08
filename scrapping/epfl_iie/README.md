@@ -90,7 +90,7 @@ This will generate `data/all_sources.json`.
 
 Use `scripts/scrap_epfl_graph_keywords_categories.sql` to extract _keyword -- parent category_ and _category -- parent category_ pairs, saved into `data/scrapped/epfl_graph/` in `keyword_category_unfiltered.csv` and `category_category_unfiltered.csv`.
 
-Then, run `scripts/classify_keywords_in_epfl_graph.py` to find categories (using Levenshtein distance) of keywords coming from other sources (also from ETHZ), and `scripts/generate_keyword_groups_epfl_graph.py` to generate usable files.
+Then, run `scripts/classify_keywords_in_epfl_graph.py` to find categories (using Levenshtein distance) of keywords coming from other sources (also from ETHZ), and `scripts/generate_keyword_groups_epfl_graph.py` to generate usable files. It may take a while.
 
 
 ## SNF Research domains and disciplines
