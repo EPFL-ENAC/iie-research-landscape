@@ -2,18 +2,15 @@ import csv
 import json
 import os
 
-input_dir = "../data/scrapped/epfl_graph"
-input_file_names = ["keyword_category.csv", "category_category.csv"]
+input_paths = ["../data/scrapped/epfl_graph/category_category_unfiltered.csv", "../data/extracted/keyword_category.csv"]
 output_dir = "../data/keyword_groups/epfl_graph"
 
 
 concept_parent = {}
 concept_subtrees = {}
 
-for input_file_name in input_file_names:
-    input_file_path = os.path.join(input_dir, input_file_name)
-
-    with open(input_file_path, "r") as input_file:
+for input_path in input_paths:
+    with open(input_path, "r") as input_file:
         reader = csv.reader(input_file)
         next(reader)  # skip header
 
@@ -21,7 +18,7 @@ for input_file_name in input_file_names:
             concept = row[0].lower()
             parent = row[1].lower()
 
-            if input_file_name == "keyword_category.csv":
+            if "keyword_category.csv" in input_path:
                 concept += " (keyword)"  # To avoid conflicts with categories
 
             concept_parent[concept] = parent
