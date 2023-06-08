@@ -29,7 +29,7 @@ Also contains data about labs that no longer exist.
 
 ### Research data
 
-Run the FME workspace to process the CSV files (see `scripts/scrap_epfl_graph_research.fmw`). Data is extracted from the `Edges_N_Unit_N_Concept_T_Research` database.
+Use `scripts/scrap_epfl_graph.sql`. Data is extracted from the `Edges_N_Unit_N_Concept_T_Research` database. As some persons were wrongly attributed to labs because they share their full name with someone else, specific SCIPERs must be ignored.
 
 The _score_ relating a keyword to a lab is a metric of __how much the lab has published on this concept__ (detected from publication's abstract).
 
