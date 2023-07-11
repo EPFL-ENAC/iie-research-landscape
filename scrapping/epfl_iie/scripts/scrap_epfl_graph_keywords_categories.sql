@@ -1,4 +1,4 @@
-# Find unique keywords (concepts) and parent categories
+# Find unique keywords (concepts) and parent categories (~2500)
 SELECT DISTINCT concept.PageTitle, category.CategoryName
 FROM Edges_N_Unit_N_Concept_T_Research edge
 JOIN Nodes_N_Unit unit USING (UnitID) # For filtering
@@ -7,7 +7,13 @@ JOIN Nodes_N_Category category USING (CategoryID)
 WHERE unit.UnitPath LIKE '%> IIE%';
 
 
-# List all categories (filtered in IIE) and their parents
+# Same but unfiltered (~26000)
+SELECT DISTINCT concept.PageTitle, category.CategoryName
+FROM Edges_N_Category_N_Concept_T_Original concept
+JOIN Nodes_N_Category category USING (CategoryID);
+
+
+# List all categories (filtered in IIE) and their parents (430 entries)
 WITH RECURSIVE filtered_categories AS (
 	# For testing:
 	# SELECT ChildCategoryID, ParentCategoryID
@@ -30,5 +36,12 @@ WITH RECURSIVE filtered_categories AS (
 # Convert IDs to names
 SELECT DISTINCT category.CategoryName, parent.CategoryName
 FROM filtered_categories edge
+JOIN Nodes_N_Category category ON edge.ChildCategoryID = category.CategoryID
+JOIN Nodes_N_Category parent ON edge.ParentCategoryID = parent.CategoryID;
+
+
+# Same but unfiltered (1267 entries)
+SELECT DISTINCT category.CategoryName, parent.CategoryName
+FROM Edges_N_Category_N_Category edge
 JOIN Nodes_N_Category category ON edge.ChildCategoryID = category.CategoryID
 JOIN Nodes_N_Category parent ON edge.ParentCategoryID = parent.CategoryID;

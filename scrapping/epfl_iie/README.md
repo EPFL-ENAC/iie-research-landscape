@@ -29,7 +29,7 @@ Also contains data about labs that no longer exist.
 
 ### Research data
 
-Run the FME workspace to process the CSV files (see `scripts/scrap_epfl_graph_research.fmw`). Data is extracted from the `Edges_N_Unit_N_Concept_T_Research` database.
+Use `scripts/scrap_epfl_graph.sql`. Data is extracted from the `Edges_N_Unit_N_Concept_T_Research` database. As some persons were wrongly attributed to labs because they share their full name with someone else, specific SCIPERs must be ignored.
 
 The _score_ relating a keyword to a lab is a metric of __how much the lab has published on this concept__ (detected from publication's abstract).
 
@@ -88,9 +88,9 @@ This will generate `data/all_sources.json`.
 
 ## EPFL Graph
 
-Use `scripts/scrap_epfl_graph_keywords_categories.sql` to extract _keyword -- parent category_ and _category -- parent category_ pairs, saved into `data/scrapped/epfl_graph/` in `keyword_category.csv` and `category_category.csv`.
+Use `scripts/scrap_epfl_graph_keywords_categories.sql` to extract _keyword -- parent category_ and _category -- parent category_ pairs, saved into `data/scrapped/epfl_graph/` in `keyword_category_unfiltered.csv` and `category_category_unfiltered.csv`.
 
-Then, run `scripts/generate_keyword_groups_epfl_graph.py`.
+Then, run `scripts/classify_keywords_in_epfl_graph.py` to find categories (using Levenshtein distance) of keywords coming from other sources (also from ETHZ), and `scripts/generate_keyword_groups_epfl_graph.py` to generate usable files. It may take a while.
 
 
 ## SNF Research domains and disciplines

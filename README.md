@@ -1,5 +1,15 @@
 # IIE Research Landscape Analysis
 
+_Analysis and visualization of [IIE (Environmental Engineering Institute)](https://www.epfl.ch/schools/enac/research/environmental-engineering-institute-iie/) research topics_
+
+## Scrapping
+
+Get in the `scrapping` directory to find scripts and retrieved data.
+
+## Visualization
+
+[Observable notebook](https://observablehq.com/@epfl-enac/iie-research-landscape)
+
 ## Setup development environment
 
 Dependencies:
